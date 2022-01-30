@@ -6,63 +6,102 @@ translations:
 
     # homepage
     - key: general.why_create_account
-      t: چرا باید یه حساب کاربری بسازم؟
+      t: چرا باید حساب کاربری بسازم؟
     - key: general.create_account_reasons
       t: >
-          ما از شما میخواهیم که یه حساب کاربری بسازید تا::
+          ما از شما میخواهیم که حساب کاربری بسازید تا:
 
           - از جواب تکراری جلوگیری کنیم
 
-          - به اطلاعات خودتون دسترسی بتونیم بدیم
+          - به داده‌های خود دسترسی داشته باشید
 
-          - تا هر کجا که جلو رفتین رو ذخیره میکنیم
+          - قابلیت ذخیره سازی وضعیت پیشروی شما جهت ادامه
 
-          - وقتی که نتایج مشخص شد بهتون خبر میدهیم
+          - امکان اطلاع رسانی هنگام آماده شدن نتایج
     - key: general.survey_closed
       t: >
-          متاسفم، ولی زمان پاسخگویی به این همه پرسی تموم شده و همه پرسی بسته شده، ولی شما میتونین همچنان جواب های خودتون رو ببینید ولی نمیتونید تغییر بدین.
+          متاسفم، زمان پاسخگویی به اتمام رسیده و این نظرسنجی بسته شده است. شما می‌توانید همچنان پاسخ‌های خود را ببینید، ولی امکان تغییر وجود ندارد.
     - key: general.survey_read_only
       t: >
-          در حال حاضر به صورت فقط خواندنی درحال دیدن این همه پرسی هستید.
+          در حال حاضر در حال دیدن نظرسنجی به صورت فقط خواندنی هستید.
+    - key: general.survey_preview
+      t: >
+          این نظرسنجی درحالت پیش‌نمایش است. احتمال تغییر در سوالات وجود دارد.
+          در صورت شرو شدن نظرسنجی اصلی داده‌های وارد شده پیشین حدف خواهد شد.
+
     - key: general.survey_read_only_back
       t: >
-          <a href="{link}">بازگشت به قبل</a> به صفحه اصلی همه پرسی برای شروع و یا ادامه پاسخگویی.
+          <a href="{link}">بازگشت به قبل</a> به صفحه اصلی نظرسنجی برای شروع و یا ادامه پاسخگویی.
+    - key: general.take_survey
+      t: انجام نظرسنجی {name}
 
     # surveys
     - key: general.open_surveys
-      t: همه پرسی های موجود
+      t: نظرسنجی‌های باز
     - key: general.no_open_surveys
-      t: هیچ همه پرسی در حال حاضر باز نمیباشد.
+      t: هیچ نظرسنجی در حال حاضر باز نمی‌باشد
     - key: general.closed_surveys
-      t: همه پرسی های بسته شده
-    - key: general.no_open_surveys
-      t: هیچ همه پرسی بسته شده ای موجود نیست.
+      t: نظرسنجی‌های بسته شده
+    - key: general.no_closed_surveys
+      t: هیچ نظرسنجی بسته شده‌ای موجود نمی‌باشد.
     - key: general.preview_surveys
-      t: پیش نمایش همه پرسی ها
+      t: پیش‌نمایش نظرسنجی‌ها
     - key: general.no_preview_surveys
-      t: هیچ همه پرسی برای پیش نمایش وجود ندارد.
+      t: هیچ نظرسنجی برای پیش‌نمایش موجود نمی‌باشد
     - key: general.start_survey
-      t: شروع همه پرسی «
+      t: شروع نظرسنجی »
     - key: general.continue_survey
-      t: ادامه همه پرسی «
+      t: ادامه نظرسنجی »
     - key: general.review_survey
-      t: بازبینی همه پرسی «
+      t: بازبینی نظرسنجی »
     - key: general.preview_survey
-      t: پیش نمایش همه پرسی «
+      t: پیش‌نمایش نظرسنجی »
     - key: general.finish_survey
-      t: اتمام همه پرسی «
+      t: اتمام نظرسنجی »
+    - key: general.next_section
+      t: بخش بعدی
+    - key: general.prev_section
+      t: بخش قبلی
     - key: general.survey_closed
-      t: این همه پرسی بسته شده است.
+      t: این نظرسنجی بسته شده است.
     - key: general.survey_results
-      t: نمایش نتایج همه پرسی »
+      t: نمایش نتایج نظرسنجی‌ها »
     - key: general.surveys_available_languages
-      t: 'همه پرسی به زبانهای زیر قابل مشاهده است:'
+      t: 'نظرسنجی به زبان‌های زیر قابل مشاهده هست:'
     - key: general.help_us_translate
-      t: به ما در ترجمه همه پرسی ها کمک کنید »
+      t: به ما در ترجمه نظرسنجی‌ها کمک کنید »
     - key: general.translators
-      t: مترجم ها
+      t: مترجم‌ها
     - key: general.translation_help
       t: کمک برای ترجمه
+    - key: general.newly_added
+      t: امسال به تازگی اضافه شده
+    - key: general.new
+      t: جدید
+
+    # credits
+    - key: credits.thanks
+      t: تشکر مخصوص
+    - key: credits.accessibility
+      t: مشاوره دسترسی‌پذیری
+    - key: credits.survey_design
+      t: طراحی نظرسنجی
+    - key: credits.logo_design
+      t: طراحی لوگو
+    - key: credits.mobile_testing
+      t: تست موبایل
+    - key: credits.data_visualizations
+      t: تصویرسازی داده‌ها
+    - key: credits.repo_architecture
+      t: معمار مخازن
+    - key: credits.code_refactoring
+      t: ریفکتور کدها
+    - key: credits.data_processing
+      t: پردازش داده‌ها
+
+    # support
+    - key: general.support_from
+      t: با پشتیبانی
 
     # footer
     - key: general.privacy_policy
@@ -79,50 +118,60 @@ translations:
       t: >
           نکته: تمام سوالها به صورت اختیاری بوده، و نیازی به رسیدن به 100% برای تکمیل نیست.
     - key: general.data_is_saved
-      t: تمام جوابهای شما به محض رفتن به صفحه قبلی و یا بعدی ذخیره میگردد.
+      t: داده‌های شما زمانی که به قسمت بعدی یا قبلی بروید ذخیره می‌شود.
+    - key: general.close_nav
+      t: بستن منو
+    - key: general.open_nav
+      t: باز کردن منو
+    - key: general.more_actions
+      t: اقدامات بیشتر
+    - key: general.skip_to_content
+      t: رفتن مستقیم به محتوا
 
     # thanks
     - key: general.back
       t: بازگشت
     - key: general.thanks
       t: >
-          از اینکه در همه پرسی ما شرکت نمودید متشکریم!
+          از اینکه در نظرسنجی ما شرکت نمودید متشکریم!
 
-          جوابهای شما ذخیره شد. شما میتوانید تا پایان یافتن همه پرسی جوابهای خود را مشاهده نمایید و یا تغییر دهید.
+          پاسخ‌های شما ذحیره شده است. تا قبل از بسته شدن نظرسنجی می‌توانید آن‌ها را مرور کنید و تغییر دهید.
 
-          به هم چنین، شما میتوانید با به اشتراک گذاشتن این همه پرسی به ما کمک نمایید. هر یک پاسخ نیز به ما کمک مینماید تا اطلاعات
+          همچنین، شما می‌توانید با به اشتراک گذاشتن این نظرسنجی به ما کمک نمایید. هر پاسخ به ما کمک مینماید تا اطلاعات
           دقیقتر و صحیحتری را تحت اختیار همگان قرار دهیم:
     - key: thanks.learn_more_about
-      t: 'برخی از امکاناتی که شاید نیاز باشد راجع به آنها اطلاعاتی کسب نمایید:'
+      t: 'برخی از امکاناتی که شاید بخواهید درباره آنها بیشتر بدانید:'
     - key: thanks.knowledge_score
       t: امتیاز آشنایی شما
     - key: thanks.score_explanation
       t: >
           شما راجع به <span class="score-number score-number-known">{known}</span> شنیدین یا ازشون استفاده کردین از کل
-          <span class="score-number score-number-total">{total}</span> امکانات در این همه پرسی، با این وجود شما جزء
+          <span class="score-number score-number-total">{total}</span> امکانات در این نظرسنجی، با این وجود شما جزء
           <span class="score-number score-number-ranking">{knowledgeRankingFromTop}%</span> بالای جدول راجع به اطلاعات قرار دارین.
     - key: thanks.share_on_twitter
-      t: به اشتراک گذاری در تویتر
+      t: به اشتراک‌گذاری در تویتر
     - key: thanks.share_score_message
       t: >
-          من امتیاز {score}% را در آشنایی امسال #{hashtag} در همه پرسی گرفتم! شما هم شرکت کنید : {shareUrl}
+          من امتیاز {score}% را در آشنایی امسال #{hashtag} در نظرسنجی گرفتم! شما هم شرکت کنید : {shareUrl}
     # share
     - key: general.share_subject
       t: >
-          {surveyName} همه پرسی
+          نظرسنجی {surveyName}
     - key: general.share_text
       t: >
-          همه پرسی امسال {surveyName} باز شده است! {link}
+          نظرسنجی امسال {surveyName} باز شده {link}
 
     # forms
     - key: forms.select_option
       t: انتخاب گزینه
+    - key: forms.clear_field
+      t: پاکسازی سوالات
 
     # partners
     - key: partners.our_partners
       t: همکاران تجاری ما
     - key: partners.become_partner
-      t: با ما همکار تجاری شوید
+      t: همکار تجاری ما شوید
 
     # 404
     - key: notfound.title
@@ -132,18 +181,18 @@ translations:
 
     # other
     - key: general.join_discord
-      t: به ما ملحق شوید <a href="{link}">Discord</a>. 
+      t: به ما ملحق شوید <a href="{link}">Discord</a>.
     - key: general.translator_mode
       t: دکمه option/alt را برای فعالسازی مود ترجمه فشار دهید.
     - key: general.charts_nivo
-      t: گرافهای این سایت توسط <a href="{link}">Nivo</a>.
-      
+      t: گرافهای این سایت توسط <a href="{link}">Nivo</a> ساخته شده است.
+
     ###########################################################################
     # Nav
     ###########################################################################
 
     - key: nav.surveys
-      t: همه پرسی ها
+      t: نظرسنجی‌ها
     - key: nav.account
       t: حساب کاربری
 
@@ -169,12 +218,15 @@ translations:
     - key: sections.opinions.title
       t: گزینه ها
     - key: sections.opinions.description
-      t: شما در ارتباط با {topic} چی فکر میکنید؟
+      t: شما در ارتباط با وضعیت کنونی {topic} چی فکر میکنید؟
 
     - key: sections.other_tools.title
       t: سایر ابزارها
     - key: sections.other_tools.description
-      t: برای این ابزارها و تکنولوژی ها، فقط آنهایی را که به صورت روزمره استفاده میکنید، انتخاب کنید.
+      t: برای این ابزارها و تکنولوژی‌ها، فقط آن‌هایی را که به صورت روزمره استفاده میکنید، انتخاب کنید.
+
+    - key: sections.report.title
+      t: گزارش ترندها
 
     ###########################################################################
     # Options
@@ -182,27 +234,27 @@ translations:
 
     # features
     - key: options.features.never_heard
-      t: 🤷 تا حالا نشنیدم / مطمئن نیستم
+      t: <span aria-hidden="true">🤷</span> تا حالا نشنیدم / مطمئن نیستم
     - key: options.features.heard
-      t: ✅ میدونم چیه، ولی استفاده نکردم ازش
+      t: <span aria-hidden="true">✅</span> میدونم چیه، ولی ازش استفاده نکردم
     - key: options.features.used
-      t: 👍 استفاده کردم
+      t: <span aria-hidden="true">👍</span> ازش استفاده کردم
 
     # features (no emoji)
     - key: options.features.never_heard.label
       t: تا حالا نشنیدم / مطمئن نیستم
     - key: options.features.heard.label
-      t: میدونم چیه، ولی استفاده نکردم ازش
+      t: میدونم چیه، ولی ازش استفاده نکردم
     - key: options.features.used.label
-      t: استفاده کردم
+      t: ازش استفاده کردم
 
     # features (short versions)
     - key: options.features.never_heard.short
-      t: تا حالا نشنیدم
+      t: تابحال نشنیدم
     - key: options.features.heard.short
-      t: میشناسمش
+      t: دربارش میدونم
     - key: options.features.used.short
-      t: استفاده کردم
+      t: ازش استفاده کردم
 
     # patterns
     - key: options.patterns.use_never
@@ -218,15 +270,15 @@ translations:
 
     # tools experience
     - key: options.tools.never_heard
-      t: 🤷 تا حالا نشنیدم / مطمئن نیستم
+      t: <span aria-hidden="true">🤷</span> تا حالا نشنیدم / مطمئن نیستم
     - key: options.tools.interested
-      t: ✅ راجع بهش شنیدم < دوست دارم یاد بگیرم
+      t: <span aria-hidden="true">✅</span> راجع بهش شنیدم < دوست دارم یاد بگیرم
     - key: options.tools.not_interested
-      t: 🚫 راجع بهش شنیدم > حال نمیکنم باهاش
+      t: <span aria-hidden="true">🚫</span> راجع بهش شنیدم > حال نمی‌کنم باهاش
     - key: options.tools.would_use
-      t: 👍 ازش استفاده کردم< بازم ازش استفاده میکنم
+      t: <span aria-hidden="true">👍</span> ازش استفاده کرده‌ام< بازم ازش استفاده می‌کنم
     - key: options.tools.would_not_use
-      t: 👎 ازش استفاده کردم < ولی دیگه حال نمیکنم باهاش
+      t: <span aria-hidden="true">👎</span> ازش استفاده کرده‌ام < ولی دیگه باهاش حال نمی‌کنم
 
     # tools experience (no emoji)
     - key: options.tools.never_heard.legend
@@ -234,23 +286,23 @@ translations:
     - key: options.tools.interested.legend
       t: راجع بهش شنیدم < دوست دارم یاد بگیرم
     - key: options.tools.not_interested.legend
-      t: راجع بهش شنیدم > حال نمیکنم باهاش
+      t: راجع بهش شنیدم > حال نمی‌کنم باهاش
     - key: options.tools.would_use.legend
-      t: ازش استفاده کردم< بازم ازش استفاده میکنم
+      t: ازش استفاده کرده‌ام< بازم ازش استفاده می‌کنم
     - key: options.tools.would_not_use.legend
-      t: ازش استفاده کردم < ولی دیگه حال نمیکنم باهاش
+      t: ازش استفاده کرده‌ام < ولی دیگه باهاش حال نمی‌کنم
 
     # tools experience (short versions)
     - key: options.tools.never_heard.short
       t: تا حالا نشنیدم
     - key: options.tools.interested.short
-      t: جاله برام
+      t: جالبه برام
     - key: options.tools.not_interested.short
       t: برام جالب نیست
     - key: options.tools.would_use.short
-      t: دوباره ازش استفاده میکنم
+      t: دوباره ازش استفاده خواهم کرد
     - key: options.tools.would_not_use.short
-      t: استفاده نمیکنم
+      t: ازش استفاده نخواهم کرد
 
     # happiness
     - key: options.happiness.0
@@ -288,6 +340,42 @@ translations:
     - key: options.opinions.4
       t: قطعن موافقم
 
+    # age
+    - key: options.age.range_less_than_10
+      t: زیر ۱۰ سال
+    - key: options.age.range_10_18
+      t: بین 10-18
+    - key: options.age.range_18_24
+      t: بین 18-24
+    - key: options.age.range_25_34
+      t: بین 24-34
+    - key: options.age.range_35_44
+      t: بین 35-44
+    - key: options.age.range_45_54
+      t: بین 45-54
+    - key: options.age.range_55_64
+      t: بین 55-64
+    - key: options.age.range_more_than_65
+      t: 65 بیشتر از
+
+    # age (short versions)
+    - key: options.age.range_less_than_10.short
+      t: '<10'
+    - key: options.age.range_10_18.short
+      t: 10-18
+    - key: options.age.range_18_24.short
+      t: 18-24
+    - key: options.age.range_25_34.short
+      t: 24-34
+    - key: options.age.range_35_44.short
+      t: 35-44
+    - key: options.age.range_45_54.short
+      t: 45-54
+    - key: options.age.range_55_64.short
+      t: 55-64
+    - key: options.age.range_more_than_65.short
+      t: '>65'
+
     # years of experience
     - key: options.years_of_experience.range_less_than_1
       t: کمتر از یک سال
@@ -304,17 +392,17 @@ translations:
 
     # years of experience (short versions)
     - key: options.years_of_experience.range_less_than_1.short
-      t: '<1'
+      t: '<1 سال'
     - key: options.years_of_experience.range_1_2.short
-      t: 1-2
+      t: 1-2 سال
     - key: options.years_of_experience.range_2_5.short
-      t: 2-5
+      t: 2-5 سال
     - key: options.years_of_experience.range_5_10.short
-      t: 5-10
+      t: 5-10 سال
     - key: options.years_of_experience.range_10_20.short
-      t: 10-20
+      t: 10-20 سال
     - key: options.years_of_experience.range_more_than_20.short
-      t: '>20'
+      t: '>20 سال'
 
     # company size
     - key: options.company_size.range_1
@@ -370,139 +458,222 @@ translations:
 
     # salary (short versions)
     - key: options.yearly_salary.range_work_for_free.short
-      t: '0'
+      t: $0
     - key: options.yearly_salary.range_0_10.short
-      t: 0~10k
+      t: $0-$10k
     - key: options.yearly_salary.range_10_30.short
-      t: 10~30k
+      t: $10k-$30k
     - key: options.yearly_salary.range_30_50.short
-      t: 30~50k
+      t: $30k-$50k
     - key: options.yearly_salary.range_50_100.short
-      t: 50~100k
+      t: $50k-$100k
     - key: options.yearly_salary.range_100_200.short
-      t: 100~200k
+      t: $100k-$200k
     - key: options.yearly_salary.range_more_than_200.short
-      t: '>200k'
+      t: '>$200k'
 
     # job titles
     - key: options.job_title.cto
-      t: CTO
+      t: مدیرفنی
     - key: options.job_title.front_end_developer
-      t: Front End Developer/Engineer
+      t: مهندس یا توسعه‌دهنده فرانت‌اند
     - key: options.job_title.back_end_developer
-      t: Back End Developer/Engineer
+      t: مهندس یا توسعه‌دهنده بک‌اند
     - key: options.job_title.full_stack_developer
-      t: Full Stack Developer/Engineer
+      t: مهندس یا توسعه‌دهنده فول‌استک
     - key: options.job_title.web_developer
-      t: Web Developer
+      t: توسعه‌دهنده وب
     - key: options.job_title.web_designer
-      t: Web Designer
+      t: طراح وب
     - key: options.job_title.ux_designer
-      t: UX Designer
+      t: توسعه‌دهنده تجربه کاربری
     - key: options.job_title.ui_designer
-      t: UI Designer
+      t: توسعه‌دهنده رابط کاربری
     - key: options.job_title.back_end_dev
-      t: Back-end Developer/Engineer
+      t: مهندس یا توسعه‌دهنده بک‌اند
 
     # JavaScript proficiency
     - key: options.javascript_proficiency.0
-      t: Not able to write any JavaScript
+      t: نمی‌توانم هیچ کد جاوااسکریپتی بنویسم
     - key: options.javascript_proficiency.1
-      t: Writing short, simple JavaScript or jQuery statements
+      t: می‌توانم کدهای کوتاه جاوااسکریپت و jQuery بنویسم.
     - key: options.javascript_proficiency.2
-      t: Working on existing front-end codebases using modern frameworks (React, Vue, etc.)
+      t: روی یک کدبیس از قبل ساخته شده فرانت‌اند ساخته شده با تکنولوژی‌های مدرن کار می‌کنم (React, Vue, etc.)
     - key: options.javascript_proficiency.3
-      t: Architecturing entire front-end codebases from scratch
+      t: معماری یک کدبیس فرانت‌اند رو از اول چیدم.
     - key: options.javascript_proficiency.4
-      t: Handling advanced front-end patterns (state management, data loading, etc.)
+      t: الگوهای پیشرفته فرانت‌اند مدیریت میکنم (state management, data loading, etc.)
 
     # CSS proficiency
     - key: options.css_proficiency.0
-      t: Virtually no knowledge of CSS
+      t: تقریبا هیچ دانشی از CSS ندارم
     - key: options.css_proficiency.1
-      t: Using CSS frameworks and tweaking existing styles
+      t: از فریم‌ورک‌های CSS استفاده می‌کنم و استایل‌های نوشته شده را تغییر می‌دهم
     - key: options.css_proficiency.2
-      t: Knowing specificity rules, being able to create layouts
+      t: قوانین specificity را می‌دانم و می‌توانم Layout بسازم
     - key: options.css_proficiency.3
-      t: Mastering animations, interactions, transitions, etc.
+      t: به animations, interactions, transitions, و... تسلط دارم.
     - key: options.css_proficiency.4
-      t: Able to style an entire front-end from scratch following a consistent methodology
+      t: قادر به نوشتن تمام استایل‌های یک اپلیکیشن با استفاده از یک روش یکپارچه هستم
 
     # Back-end proficiency
     - key: options.backend_proficiency.0
-      t: Not able to handle any back-end work
+      t: نمی‌توانم هیچ کار بک‌اندی را انجام دهم
     - key: options.backend_proficiency.1
-      t: Able to set up all-in-one CMSs (WordPress, etc.) or static site generators (Jekyll, etc.)
+      t: می‌توانم یک با CMS های all-in-one (WordPress, etc.) یا static site generator ها (Jenkyll, etc.) کار کنم
     - key: options.backend_proficiency.2
-      t: Able to develop apps using pre-existing frameworks (Rails, Laravel, etc.)
+      t: می‌توانم با فریم‌ورک‌های از قبل ساخته شده توسعه بدم (Rails, Laravel, etc.)
     - key: options.backend_proficiency.3
-      t: Setting up an entire back-end from scratch (Go, Node.js, etc.)
+      t: می‌توانم همه بک‌اند یک پروژه را از ابتدا انجام بدم. (Go, Node.js, etc.)
     - key: options.backend_proficiency.4
-      t: Able to handle complex multi-server or microservices architectures
+      t: توانایی هندل کردن یک پروژه چند سروری و معماری میکروسرویس را دارم.
 
     # Proficiency (generic versions)
     - key: options.proficiency.0
-      t: None
+      t: هیچ
     - key: options.proficiency.1
-      t: Beginner
+      t: تازه کار
     - key: options.proficiency.2
-      t: Intermediate
+      t: متوسط
     - key: options.proficiency.3
-      t: Advanced
+      t: پیشرفته
     - key: options.proficiency.4
-      t: Expert
+      t: خبره
 
     # Gender
 
     - key: options.gender.female
-      t: Female
+      t: زن
     - key: options.gender.male
-      t: Male
+      t: مرد
     - key: options.gender.non_binary
-      t: Non-Binary/Third Gender
+      t: غیر باینری یا جنسیت ناسازگار
+    - key: options.gender.questioning
+      t: مطمئن نیستم
     - key: options.gender.prefer_not_to_say
-      t: Prefer not to say
+      t: ترجیح میدهم نگویم
+    - key: options.gender.not_listed
+      t: هیچکدام از گزینه‌های بالا
+
+    # Gender (short)
+
+    - key: options.gender.female.short
+      t: زن
+    - key: options.gender.male.short
+      t: مرد
+    - key: options.gender.non_binary.short
+      t: غیرباینری
+    - key: options.gender.questioning.short
+      t: مطمئن نیستم
+    - key: options.gender.prefer_not_to_say.short
+      t: ترجیح میدهم نگویم
+    - key: options.gender.not_listed.short
+      t: هیچکدام
 
     # Race & Ethnicity
 
     - key: options.race_ethnicity.white_european
-      t: White or of European descent
+      t: سفیدپوست
     - key: options.race_ethnicity.south_asian
-      t: South Asian
+      t: جنوب آسیا
+    - key: options.race_ethnicity.south_east_asian
+      t: جنوب شرق آسیا
     - key: options.race_ethnicity.hispanic_latin
-      t: Hispanic or Latino/Latina
+      t: اسپانیایی یا لاتین
     - key: options.race_ethnicity.east_asian
-      t: East Asian
+      t: شرق آسیا
     - key: options.race_ethnicity.middle_eastern
-      t: Middle Eastern
+      t: خاورمیانه
     - key: options.race_ethnicity.black_african
-      t: Black or of African descent
+      t: سیاه پوست یا آفریقایی تبار
     - key: options.race_ethnicity.multiracial
-      t: Multiracial
+      t: چند نژادی
     - key: options.race_ethnicity.biracial
-      t: Biracial
+      t: دو نژادی
     - key: options.race_ethnicity.native_american_islander_australian
-      t: Native American, Pacific Islander, or Indigenous Australian
+      t: بومیان آمریکایی، جزیره‌نشین اقیانوس آرام یا بومی استرالیا
+    - key: options.race_ethnicity.not_listed
+      t: هیچکدام از موارد بالا
+
+    # Race & Ethnicity (short)
+
+    - key: options.race_ethnicity.white_european.short
+      t: سفیدپوست
+    - key: options.race_ethnicity.south_asian.short
+      t: جنوب آسیا
+    - key: options.race_ethnicity.south_east_asian.short
+      t: جنوب شرق آسیا
+    - key: options.race_ethnicity.hispanic_latin.short
+      t: اسپانیایی یا لاتین
+    - key: options.race_ethnicity.east_asian.short
+      t: شرق آسیا
+    - key: options.race_ethnicity.middle_eastern.short
+      t: خاورمیانه
+    - key: options.race_ethnicity.black_african.short
+      t: سیاه‌پوست یا آفریقایی تبار
+    - key: options.race_ethnicity.multiracial.short
+      t: چند نژادی
+    - key: options.race_ethnicity.biracial.short
+      t: دو نژادی
+    - key: options.race_ethnicity.native_american_islander_australian.short
+      t: بومیان آمریکایی، جزیره‌نشین اقیانوس آرام یا بومی استرالیا
+    - key: options.race_ethnicity.not_listed.short
+      t: هیچکدام
+
+    # Disability Status
+    - key: options.disability_status.visual_impairments
+      t: >
+        اختلالات بینایی (مانند: کوری, کور رنگی, و...)
+    - key: options.disability_status.hearing_impairments
+      t: >
+        اختلالات شنوایی (مانند: کوری, زنگ زدن گوش, و...)
+    - key: options.disability_status.mobility_impairments
+      t: >
+        اختلالات حرکتی (مانند: آرتروز, تونل کارپال, و...)
+    - key: options.disability_status.cognitive_impairments
+      t: >
+        اختلالات شناختی (مانند: اضطراب, نارساخوانی, و...)
+    - key: options.disability_status.not_listed
+      t: >
+        هیچکدام از موارد بالا
+
+    # Disability Status (short)
+    - key: options.disability_status.visual_impairments
+      t: اختلالات بینایی
+    - key: options.disability_status.hearing_impairments
+      t: اختلالات شنوایی
+    - key: options.disability_status.mobility_impairments
+      t: اختلالات حرکتی
+    - key: options.disability_status.cognitive_impairments
+      t: اختلالات شناختی
+    - key: options.disability_status.not_listed
+      t: هیچکدام
 
     # Form Factors
     - key: options.form_factors.desktop
-      t: Desktop
+      t: کامپیوتر رو میزی
+    - key: options.form_factors.keyboard_only
+      t: کامپیوتر رو میزی فقط با کیبورد
     - key: options.form_factors.smartphone
-      t: Smartphone
+      t: تلفن هوشمند
     - key: options.form_factors.feature_phone
       t: Feature phone
     - key: options.form_factors.tablet
-      t: Tablet
+      t: تبلت
     - key: options.form_factors.smart_watch
       t: Smartwatch
     - key: options.form_factors.tv
-      t: TV
+      t: تلویزیون
     - key: options.form_factors.gaming_console
-      t: Gaming console
+      t: کنسول‌های بازی
     - key: options.form_factors.screen_reader
       t: Screen reader
     - key: options.form_factors.print
-      t: Print
+      t: پرینت
+    - key: options.form_factors.testing_tools
+      t: ابزارهای تست (Axe, Lighthouse, etc.)
+    - key: options.form_factors.vision_simulator
+      t: شبیه‌ساز تغییر دید (color blindness, etc.)
 
     # Industry Sector
     - key: options.industry_sector.ecommerce
@@ -529,186 +700,396 @@ translations:
       t: Entertainment
     - key: options.industry_sector.consulting
       t: Consulting & Services
+    - key: options.industry_sector.travel
+      t: Travel
+    - key: options.industry_sector.insurance
+      t: Insurance
+    - key: options.industry_sector.logistics
+      t: Logistics
+    - key: options.industry_sector.energy
+      t: Energy
+    - key: options.industry_sector.telecommunications
+      t: Telecommunications
+    - key: options.industry_sector.student
+      t: Student
+    - key: options.industry_sector.hospitality
+      t: Hospitality
+    - key: options.industry_sector.cyber_security
+      t: Cyber Security
+    - key: options.industry_sector.construction
+      t: Construction
+    - key: options.industry_sector.automotive
+      t: Automotive
+    - key: options.industry_sector.agriculture
+      t: Agriculture
+    - key: options.industry_sector.transport
+      t: Transport
+    - key: options.industry_sector.manufacturing
+      t: Manufacturing
+
+    # tool evaluation
+    - key: options.tool_evaluation.learning_curve_documentation
+      t: Documentation
+    - key: options.tool_evaluation.learning_curve_documentation.description
+      t: Is it easy to learn and/or well-documented?
+    - key: options.tool_evaluation.momentum_popularity
+      t: Hype & Momentum
+    - key: options.tool_evaluation.momentum_popularity.description
+      t: Is it currently generating a lot of buzz?
+    - key: options.tool_evaluation.user_base_size
+      t: User Base Size
+    - key: options.tool_evaluation.user_base_size.description
+      t: Is it a well-established option with a long track record?
+    - key: options.tool_evaluation.developer_experience_tooling
+      t: Developer Experience
+    - key: options.tool_evaluation.developer_experience_tooling.description
+      t: Does it have good developer tools, a large plugin ecosystem, etc.?
+    - key: options.tool_evaluation.performance_user_experience
+      t: User Experience
+    - key: options.tool_evaluation.performance_user_experience.description
+      t: Does it help you create smooth, performant user experiences?
+    - key: options.tool_evaluation.creator_team
+      t: Creator & Team
+    - key: options.tool_evaluation.creator_team.description
+      t: Is it backed by a well-known, well-funded, or experienced team?
+    - key: options.tool_evaluation.accessibility_features
+      t: Accessibility Features
+    - key: options.tool_evaluation.accessibility_features.description
+      t: Is it good at creating accessible experiences for all users?
+    - key: options.tool_evaluation.community_inclusivity
+      t: Community & Inclusivity
+    - key: options.tool_evaluation.community_inclusivity.description
+      t: Does it have a welcoming, vibrant community built around it?
+
+
+
+    # accessibility features
+    - key: options.accessibility_features.keyboard_navigation
+      t: پیمایش با صفحه‌کلید
+    - key: options.accessibility_features.compliant_contrast
+      t: کنتراست رنگ سازگار با WCAG
+    - key: options.accessibility_features.focus_indicators
+      t: شاخص‌های Focus
+    - key: options.accessibility_features.skip_to_content_link
+      t: لینک Skip-to-content
+    - key: options.accessibility_features.color_themes
+      t: تم‌های رنگی (حالت تیره, حالت کنتراست بالا, etc.)
+    - key: options.accessibility_features.prefers_reduced_motion
+      t: Prefers-reduced-motion
+    - key: options.accessibility_features.alt_text
+      t: Alt texts
+    - key: options.accessibility_features.semantic_markup
+      t: Semantic markup
+    - key: options.accessibility_features.aria_attributes
+      t: ARIA HTML attributes
+
+    # learning methods
+    - key: options.first_steps.books
+      t: کتاب
+    - key: options.first_steps.videos
+      t: ویدئوها و اسکرین‌کست‌ها
+    - key: options.first_steps.school
+      t: مدرسه یا تحصیلات عالیه
+    - key: options.first_steps.courses_free
+      t: دوره آنلاین (رایگان)
+    - key: options.first_steps.courses_paid
+      t: دوره آنلاین (غیر رایگان)
+    - key: options.first_steps.podcasts
+      t: پادکست‌ها
+    - key: options.first_steps.bootcamp
+      t: بوتکمپ‌های برنامه‌نویسی
+    - key: options.first_steps.on_the_job
+      t: آموزش حین کار
+    - key: options.first_steps.self_directed
+      t: خودآموزی (Google, Stack Overflow, و...)
+    - key: options.first_steps.mentoring
+      t: منتورینگ
+
+    # degree
+    - key: options.higher_education_degree.no_degree
+      t: خیر
+    - key: options.higher_education_degree.yes_related
+      t: بله، در رشته‌ی مرتبط با حرفه فعلی‌ام
+    - key: options.higher_education_degree.yes_unrelated
+      t: بله، اما در رشته‌ی غیرمرتبط با حرفه فعلی من
+
+    # degree (short versions)
+    - key: options.higher_education_degree.no_degree.short
+      t: خیر
+    - key: options.higher_education_degree.yes_related.short
+      t: بله, رشته مرتبط
+    - key: options.higher_education_degree.yes_unrelated.short
+      t: بله، رشته غیرمرتبط
+
+    # bracket
+    - key: options.bracket.round1
+      t: Round 1 wins
+    - key: options.bracket.round2
+      t: Round 2 wins
+    - key: options.bracket.round3
+      t: Round 3 wins
+    - key: options.bracket.combined
+      t: Combined
 
     ###########################################################################
     # Tools
     ###########################################################################
 
     - key: tools.other_tools
-      t: Other Options
+      t: گزینه‌های دیگر
     - key: tools.other_tools.description
-      t: Other options you use for the current section not mentioned in the list above
+      t: گزینه های دیگری که در لیست بالا ذکر نشده‌اند
     - key: tools.happiness
-      t: Overall Happiness
+      t: خوشحالی کلی
     - key: tools.happiness.description
       t: >
-          On a scale of one (very unhappy) to five (very happy), how happy are
-          you with the current overall state of things as it relates to the options listed above?
+          در مقیاس یک (بسیار ناراضی) تا پنج (بسیار خوشحال)،
+          در حال حاضر چقدر از وضعیت کلی در رابطه با گزینه‌های ذکر شده در بالا راضی هستید؟
 
     ###########################################################################
     # Demographics (About You/User Info)
     ###########################################################################
 
+    # age
+    - key: user_info.age
+      t: سن
+    - key: user_info.age.description
+      t: سن شما چقدر است؟
+
     # years of experience
     - key: user_info.years_of_experience
-      t: Years of Experience
+      t: سال‌های تجربه شما
     - key: user_info.years_of_experience.description
-      t: How long you've been working or studying in this field.
+      t: چند سال است که در این حوزه مشغول کار یا تحصیل هستید؟
 
     # company size
     - key: user_info.company_size
-      t: Company Size
+      t: اندازه شرکت
     - key: user_info.company_size.description
-      t: How big your company is.
+      t: شرکت شما از نظر تعداد کارمندان چقدر بزرگ است؟
 
     # salary ranges
     - key: user_info.yearly_salary
-      t: Yearly Salary
+      t: حقوق سالیانه
     - key: user_info.yearly_salary.description
-      t: In USD.
+      t: درآمد سالیانه شما به دلار آمریکا.
 
     # job title
     - key: user_info.job_title
-      t: Job Title
+      t: عنوان شغلی
     - key: user_info.job_title.description
-      t: How do you introduce yourself at parties?
+      t: چگونه خود را به دیگران معرفی می کنید؟
 
     # javascript proficiency
     - key: user_info.javascript_proficiency
-      t: JavaScript Proficiency
+      t: مهارت جاوااسکریپت
     - key: user_info.javascript_proficiency.description
-      t: How proficient are you at JavaScript?
+      t: چقدر در جاوا اسکریپت مهارت دارید؟
 
     # css proficiency
     - key: user_info.css_proficiency
-      t: CSS Proficiency
+      t: مهارت CSS
     - key: user_info.css_proficiency.description
-      t: How proficient are you at CSS?
+      t: چقدر در CSS مهارت دارید؟
 
     # backend proficiency
     - key: user_info.backend_proficiency
-      t: Back-end Proficiency
+      t: مهارت بک‌اند
     - key: user_info.backend_proficiency.description
-      t: How proficient are you at back-end development?
+      t: چقدر در توسعه back-end مهارت دارید؟
 
     # gender
     - key: user_info.gender
-      t: Gender
+      t: جنسیت
+    - key: user_info.gender.description
+      t: >
+        در صورت وجود، کدام یک از گزینه‌های زیر شما را توصیف می‌کند؟ لطفا یکی را انتخاب کنید
+    - key: user_info.gender.note
+      t: >
+        در حالی که می‌دانیم جمع‌آوری و انتشار دادهٰ‌های متنوع می‌تواند یک موضوع حساس باشد،
+        ما فکر می‌کنیم داشتن این داده‌ها می‌تواند به اندازه‌گیری و بهبود فراگیری این نظرسنجی کمک کند.
 
-    # skin tone/appearance
+    # race & ethnicity
     - key: user_info.race_ethnicity
-      t: Race & Ethnicity
+      t: نژاد و قومیت
+    - key: user_info.race_ethnicity.description
+      t: >
+        در صورت وجود، کدام یک از گزینه‌های زیر شما را توصیف می‌کند؟ لطفا همه گزینه‌های درست را انتخاب کنید.
+    - key: user_info.race_ethnicity.note
+      t: >
+        در حالی که می‌دانیم جمع‌آوری و انتشار دادهٰ‌های متنوع می‌تواند یک موضوع حساس باشد،
+        ما فکر می‌کنیم داشتن این داده‌ها می‌تواند به اندازه‌گیری و بهبود فراگیری این نظرسنجی کمک کند.
+
+    # disability status
+    - key: user_info.disability_status
+      t: وضعیت معلولیت
+    - key: user_info.disability_status.description
+      t: >
+        در صورت وجود، کدام یک از گزینه‌های زیر شما را توصیف می‌کند؟ لطفا همه گزینه‌های درست را انتخاب کنید.
+        توجه داشته باشید که این می‌تواند شامل معلولیت یا آسیب‌های موقت نیز باشد.
+    # disability status (other)
+    - key: user_info.disability_status.others
+      t: معلولیت‌های دیگر
 
     # other info
     - key: user_info.how_did_user_find_out_about_the_survey
-      t: How did you find out about this survey?
+      t: چگونه از این نظرسنجی مطلع شدید؟
     - key: user_info.email
-      t: Your Email
+      t: ایمیل شما
     - key: user_info.country
-      t: Your Country or Region
+      t: کشور یا منطقه شما
+    - key: user_info.country.description
+      t: در حال حاضر کجا ساکن هستید؟
+
     - key: user_info.github_username
-      t: Your GitHub Username
+      t: نام کاربری Github شما
     - key: user_info.github_username.description
+      t: ممکن است در آینده از نام‌ کاربری GitHub شما برای بررسی مخازن و ارجاع متقابل اطلاعات در عمومی استفاده کنیم
+
+    - key: user_info.twitter_username
+      t: نام کاربری Twitter شما
+    - key: user_info.twitter_username.description
       t: >
-        We might use GitHub usernames in the future to look at
-        repos and cross-reference publicly available information. 
+        ممکن است در آینده از نام‌ کاربری GitHub شما برای بررسی مخازن و ارجاع متقابل اطلاعات در عمومی استفاده کنیم
+        (مانند لیست افرادی که دنبال کرده‌اید)
     - key: user_info.industry_sector
-      t: Industry Sector
+      t: صنعت
     - key: user_info.industry_sector.description
-      t: Which industry sector(s) do you work in?
+      t: در کدوم بخش از صنعت/صنایع کار می‌کنید؟
     - key: user_info.industry_sector.others
-      t: Other Industry Sectors
+      t: بخش‌های دیگر
     - key: user_info.industry_sector.others.description
-      t: Other industry sector(s) you work in not mentioned above.
+      t: سایر بخش(های) صنعتی که در بالا ذکر نشده است.
+
+    # degree
+    - key: user_info.higher_education_degree
+      t: مدرک تحصیلی دانشگاهی
+    - key: user_info.higher_education_degree.description
+      t: آیا دارای مدرک تحصیلی دانشگاهی هستید؟
 
     ###########################################################################
     # Other Tools
     ###########################################################################
 
     - key: tools_others.libraries
-      t: Libraries
+      t: کتابخانه‌ها
     - key: tools_others.libraries.description
-      t: Which libraries do you regularly use?
+      t: عمدتا چه کتابخانه‌هایی استفاده می‌کنید؟
     - key: tools_others.libraries.others
-      t: Other Libraries
+      t: دیگر کتابخانه‌ها
     - key: tools_others.libraries.others.description
-      t: Other answers (freeform field).
+      t: موارد دیگر (فیلد آزاد).
 
     - key: tools_others.text_editors
-      t: Text Editors
+      t: ویرایشگر متن
     - key: tools_others.text_editors.description
-      t: Which text editor(s) do you regularly use?
+      t: عمدتا از چه ویرایشگر(های) متنی استفاده می‌کنید؟
     - key: tools_others.text_editors.others
-      t: Other Text Editors
+      t: ویرایشگرهای دیگر
     - key: tools_others.text_editors.others.description
-      t: Other answers (freeform field).
+      t: موارد دیگر (فیلد آزاد).
 
     - key: tools_others.utilities
-      t: Utilities
+      t: ابزارهای کمکی
     - key: tools_others.utilities.description
-      t: Which utilities or tools do you regularly use?
+      t: عمدتا از چه ابزراهای کمکی استفاده می‌کنید؟
     - key: tools_others.utilities.others
-      t: Other Utilities
+      t: دیگر ابزارهای کمکی
     - key: tools_others.utilities.others.description
-      t: Other utilities (freeform field).
+      t: دیگر ابزارهای کمکی (فیلد آزاد).
 
     - key: tools_others.browsers
-      t: Browsers
+      t: مرورگرها
     - key: tools_others.browsers.description
-      t: Which browser(s) do you primarily work in during initial development?
+      t: در زمان توسعه، عمدتاً از کدام مرورگر(های) استفاده می‌کنید
     - key: tools_others.browsers.others
-      t: Other Browsers
+      t: دیگر مرورگرها
     - key: tools_others.browsers.others.description
-      t: Other answers (freeform field).
+      t: موارد دیگر (فیلد آزاد).
 
     - key: tools_others.build_tools
-      t: Build Tools
+      t: ابزارهای ساخت
     - key: tools_others.build_tools.description
-      t: Which build tools do you use?
+      t: از کدام ابزار ساخت استفاده می کنید؟
     - key: tools_others.build_tools.others
-      t: Other Build Tools
+      t: دیگر ابزارهای ساخت
     - key: tools_others.build_tools.others.description
-      t: Other answers (freeform field).
+      t: موارد دیگر (فیلد آزاد).
 
     - key: tools_others.non_js_languages
-      t: Non-JavaScript Languages
+      t: زبان‌های برنامه‌نویسی غیر از جاوااسکریپت
     - key: tools_others.non_js_languages.description
-      t: Which other programming languages do you use?
+      t: از کدام زبان های برنامه‌نویسی دیگر استفاده می کنید؟
     - key: tools_others.non_js_languages.others
-      t: Other Languages
+      t: زبان‌های دیگر
     - key: tools_others.non_js_languages.others.description
-      t: Other answers (freeform field).
+      t: موارد دیگر (فیلد آزاد).
+
+    - key: tools_others.javascript_flavors
+      t: زبان‌های هم‌خانواده جاوااسکریپت
+    - key: tools_others.javascript_flavors.description
+      t: زبان‌هایی که به جاوااسکریپت کامپایل می‌شوند
+    - key: tools_others.javascript_flavors.others
+      t: زبان‌های دیگر
+    - key: tools_others.javascript_flavors.others.description
+      t: موارد دیگر (فیلد آزاد).
 
     ###########################################################################
     # Resources
     ###########################################################################
 
+    # learning method
+    - key: resources.first_steps
+      t: اولین روش یادگیری
+    - key: resources.first_steps.description
+      t: وقتی تازه شروع کردید, برنامه‌نویسی را چگونه یاد گرفتید؟?
+    - key: resources.first_steps.others
+      t: روش‌های شروع دیگر
+    - key: resources.first_steps.others.description
+      t: موارد دیگر (فیلد آزاد).
+
     # blogs & magazines
     - key: resources.blogs_news_magazines
-      t: Blogs & Magazines
+      t: بلاگ‌ها و مجلات
     - key: resources.blogs_news_magazines.description
-      t: Which blogs/magazines/etc. do you read?
+      t: کدام یک از بلاگ‌ها، مجلات و... را مطالعه می‌کنید؟
     - key: resources.blogs_news_magazines.others
-      t: Other Blogs & Magazines
+      t: بلاگ‌ها و مجلات دیگر
     - key: resources.blogs_news_magazines.others.description
-      t: Other answers (freeform field).
+      t: موارد دیگر (فیلد آزاد).
 
     # sites & courses
     - key: resources.sites_courses
-      t: Sites & Courses
+      t: سایت‌ها و دوره‌ها
     - key: resources.sites_courses.description
-      t: Which sites/courses/etc. do you consult?
+      t: کدام یک از سایت‌ها/دوره‌ها/و... استفاده می‌کنید؟
     - key: resources.sites_courses.others
-      t: Other Sites & Courses
+      t: سایت‌ها و دوره‌های دیگر
     - key: resources.sites_courses.others.description
-      t: Other answers (freeform field).
+      t: موارد دیگر (فیلد آزاد).
 
     # podcasts
     - key: resources.podcasts
-      t: Podcasts
+      t: پادکست‌ها
     - key: resources.podcasts.description
-      t: Which programming-related podcasts do you listen to?
+      t: به کدام یک از پادکست‌های مرتبط به برنامه‌نویسی گوش می‌دهید؟
     - key: resources.podcasts.others
-      t: Other Podcasts
+      t: پادکست‌های دیگر
     - key: resources.podcasts.others.description
-      t: Other answers (freeform field).
+      t: موارد دیگر (فیلد آزاد).
+
+    # people
+    - key: resources.people
+      t: افراد
+    - key: resources.people.description
+      t: افرادی که دربارشون می‌خوانید، دنبال می‌کنید، یا می‌خواهید نام ببرید.
+    # - key: resources.people.others
+    #   t: Other People
+    # - key: resources.people.others.description
+    #   t: Other answers (freeform field).
+    - key: resources.people.others
+      t: افراد
+    - key: resources.people.others.description
+      t: >
+        افرادی که بخاطر کارهایشان آن‌ها را دنبال می‌کنید، می‌خوانید یا می‌خواهید نام ببرید
+        (فیلد آزاد، نام‌ها را با کاما جدا کنید)
