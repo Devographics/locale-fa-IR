@@ -823,13 +823,13 @@ translations:
 
     # bracket
     - key: options.bracket.round1
-      t: Round 1 wins
+      t: برنده راند 1
     - key: options.bracket.round2
-      t: Round 2 wins
+      t: برنده راند ۲
     - key: options.bracket.round3
-      t: Round 3 wins
+      t: برنده راند ۳
     - key: options.bracket.combined
-      t: Combined
+      t: ترکیبی
 
     ###########################################################################
     # Tools
@@ -927,6 +927,7 @@ translations:
       t: >
         در صورت وجود، کدام یک از گزینه‌های زیر شما را توصیف می‌کند؟ لطفا همه گزینه‌های درست را انتخاب کنید.
         توجه داشته باشید که این می‌تواند شامل معلولیت یا آسیب‌های موقت نیز باشد.
+
     # disability status (other)
     - key: user_info.disability_status.others
       t: معلولیت‌های دیگر

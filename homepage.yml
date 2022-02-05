@@ -13,8 +13,6 @@ translations:
 
     - key: homepage.made_by
       t: 'نظرسنجی State of CSS ساخته شده توسط:'
-    - key: homepage.leave_issue
-      t: یک تیکت باز کنید
 
     - key: homepage.previous_years
       t: 'سال‌های گذشته:'
