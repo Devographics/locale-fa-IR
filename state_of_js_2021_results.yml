@@ -1,0 +1,406 @@
+locale: fa-IR
+translations:
+    ###########################################################################
+    # Introduction
+    ###########################################################################
+
+    - key: sections.introduction.description
+      t: |
+
+            <span class="first-letter">A</span> lot happened in 2021. So much in fact that the survey was pushed back all the way to 2022!
+
+            Between a slew of faster build tools and a new crop of back-end frameworks, the JavaScript world kept evolving. And we did our best to keep up, giving this survey a couple new power-ups ([read more about what's new](https://dev.to/sachagreif/whats-new-in-the-20212022-state-of-javascript-4jkf)) such as new question types, the ability to cross-reference two datapoints (such as yearly salaries by experience level), and even a way to customize the charts to surface your own insights!
+
+            It wasn't all smooth sailing, though. We had to deal with a [data leak](https://dev.to/sachagreif/disclosing-a-state-of-javascriptstate-of-css-data-breach-2lg1) that thankfully didn't seem to have any bad consequences. And we're constantly making efforts to make the survey more inclusive, more accessibe, and more fair.
+
+            Still, even though the survey can ever only represents a tiny, tiny part of the JavaScript ecosystem, we hope you'll find the resulting data interesting!
+
+            <span class="conclusion__byline">– Sacha Greif</span>
+
+    ###########################################################################
+    # Tshirt
+    ###########################################################################
+
+    - key: sections.tshirt.title
+      t: T-shirt
+
+    - key: sections.tshirt.description
+      t: |
+          ## Support the Survey With the State of CSS T-Shirt
+
+          Between the bad video quality, the bulky cassettes, and having to rewind, there's not much to miss about the VHS era. But one thing we *do* miss are the amazing 90s visuals that used to adorn blank VHS tapes.
+
+          But now, thanks to the talented Christopher Kirk-Nielsen you can enjoy all this retro radness while also celebrating your love for CSS at the same time!
+
+    - key: tshirt.about
+      t: About the T-shirt
+
+    - key: tshirt.description
+      t: |
+          We use a high-quality, super-soft tri-blend shirt with a slim fit printed by our partners at Cotton Bureau.
+
+    - key: tshirt.getit
+      t: Get It
+
+    - key: tshirt.price
+      t: USD $29 + shipping
+
+    - key: tshirt.designer.heading
+      t: About the Designer
+
+    - key: tshirt.designer.name
+      t: Christopher Kirk-Nielsen
+
+    - key: tshirt.designer.bio
+      t: |
+          Originally from France but now based in the United States, Chris is not just an amazing front-end developer, but also a talented illustrator who specializes in retro visuals. In fact, we encourage you to also check out his [other t-shirt designs](https://chriskirknielsen.com/designs)!
+
+    ###########################################################################
+    # Sections
+    ###########################################################################
+
+    - key: sections.user_info.description
+      t: |
+          This year, **16,085** respondents took part in the survey. And in order
+          to help highlight different voices and surface deeper insights, we made a special
+          effort to provide new ways to break our data down.
+
+    - key: sections.features.description
+      t: |
+          JavaScript may move fast, but it seems like JavaScript developers move even faster, as many relatively new features already show high adoption levels.
+
+    - key: sections.technologies.description
+      t: |
+          This year's results point to a high degree of fragmentation in the JavaScript world. But while this can sometimes cause headaches, all that competition does make for a very dynamic ecosystem.
+
+    - key: sections.tools_others.description
+      t: |
+          Picking a technology can often come down to a series of tough choices between
+          competing priorities, and this year we tried to capture this process using a new bracket-style question format.
+
+    - key: sections.environments.description
+      t: |
+          Accessibility has long been an after-thought when it comes to web development, but many developers
+          are now realizing that it should in fact be the foundation on which everything else rests.
+
+    - key: sections.resources.description
+      t: |
+          Highlighting blogs, podcasts, and sites was a good start, but this year we decided to go one step further
+          and actually feature the people who make up the JavaScript community!
+
+    - key: sections.opinions.description
+      t: |
+          Whether it's pain points that hold you back today, or missing features that you hope to use
+          tomorrow, this was your chance to vent and share your gripes with JavaScript!
+
+    ###########################################################################
+    # Charts
+    ###########################################################################
+
+    - key: options.features_categories.language
+      aliasFor: sections.language.title
+    - key: options.features_categories.browser_apis
+      aliasFor: sections.browser_apis.title
+    - key: options.features_categories.other_features
+      aliasFor: sections.other_features.title
+
+    ###########################################################################
+    # Notes
+    ###########################################################################
+
+    - key: blocks.gender.note
+      t: |
+          If you're interested in learning more, we [wrote a blog post](https://dev.to/sachagreif/is-our-survey-biased-against-women-49oj) that addresses the survey's gender dynamics.
+
+    - key: blocks.currently_missing_from_css.note
+      t: |
+          You can explore the full dataset of answers to this question in [this side project](https://whatsmissingfromcss.com/).
+
+    - key: blocks.source.note
+      t: >
+
+        This chart aggregates a mix of referrers, URL parameters, and freeform answers.
+
+        - State of JS: the [State of JS](https://stateofjs.com) mailing list.
+
+        - State of CSS: the State of CSS mailing list; also matches `email`, `by email`, etc.
+
+        - Work: matches `work`, `colleagues`, `coworkers`, etc.
+
+    ###########################################################################
+    # Awards
+    ###########################################################################
+
+    - key: award.feature_adoption_delta_award.comment
+      t: With a **{value}** progression in 2021, CSS comparison functions are becoming a key part of every CSS developer's toolkit.
+
+    # - key: award.tool_usage_delta_award.comment
+    #   t: No other tool comes even close to Tailwind CSS's dramatic **{value}** progression over the last year.
+
+    - key: award.tool_satisfaction_award.comment
+      t: PostCSS takes the top spot once again with a **{value}** satisfaction ratio.
+
+    - key: award.tool_interest_award.comment
+      t: With a **{value}** ratio, CSS Modules again generated the most interest among CSS developers this year.
+
+    # - key: award.most_write_ins_award.comment
+    #   t: Many questions also accepted write-in answers, and with **{value}** mentions PhpStorm was the most popular item overall.
+
+
+    ###########################################################################
+    # Conclusion
+    ###########################################################################
+
+    - key: sections.conclusion.description
+      t: |
+            <span class="first-line">The way you write CSS is about to change forever</span>
+
+            For many years now, many innovations in writing styles for the web have happened elsewhere: in preprocessors, JavaScript frameworks, or compilers. To be sure, CSS itself has also received some welcome improvements like [aspect-ratio](https://developer.mozilla.org/en-US/docs/Web/CSS/aspect-ratio) or [custom properties](https://developer.mozilla.org/en-US/docs/Web/CSS/--*). Yet we still reach for libraries and other helpers on a daily basis.
+
+            But there's a change coming. The core CSS language is getting shaken up and renewed, and we're right at the forefront of accelerated evolution.
+
+            [Container Queries](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Container_Queries) will bring in an entirely new era of responsive design, and [Cascade Layers](https://developer.mozilla.org/en-US/docs/Web/CSS/@layer) will make our use of frameworks, theming and managing complex codebases significantly easier.
+
+            When we look a little further ahead, we can also see the [@when/else conditional](https://css-tricks.com/proposal-for-css-when/) coming up, which will let us combine media, container and supports queries into a single at-rule.
+
+            And fingers crossed, 2022 is the year we finally see some movement on native CSS nesting. Those of us that work with tools like Sass and PostCSS already couldn't imagine another way of working.
+
+            All of this together means that 2022 is likely to be a year where the way you write CSS is going to fundamentally change. It's an incredibly exciting period, and we look forward to all the amazing implementations in the year to come.
+
+    - key: conclusion.bio
+      t: Web developer and creator of Polypane
+
+    ###########################################################################
+    # Picks
+    ###########################################################################
+
+    - key: picks.my_pick
+      t: 'My 2021 Pick: '
+    - key: picks.intro
+      t: We asked members of the CSS community to share their “pick of the year”
+
+    - key: picks.lee_robinson.name
+      t: SvelteKit
+    - key: picks.lee_robinson.bio
+      t: Director of Developer Relations at Vercel
+    - key: picks.lee_robinson.description
+      t: |
+          SvelteKit is a fresh take on building for the web and has an
+          incredibly passionate, growing community of supporters.
+
+    - key: picks.vadim_makeev.name
+      t: Server-Side Rendering
+    - key: picks.vadim_makeev.bio
+      t: DevRel, Podcaster & Web Standards Advocate
+    - key: picks.vadim_makeev.description
+      t: |
+          The time has come to get our priorities straight.
+          UX > DX, and it has always been like that. Performance FTW!
+
+    - key: picks.ben_ilegbodu.name
+      t: Lee Robinson
+    - key: picks.ben_ilegbodu.bio
+      t: Ben Ilegbodu, Principal Frontend Engineer @ Stitch Fix
+    - key: picks.ben_ilegbodu.description
+      t: |
+          Lee has been great at shepherding and advocating for Next.js.
+          He's helped me a ton with Next and continues to build excitement
+          for where it's going
+
+    - key: picks.shawn_wang.name
+      t: Supabase
+    - key: picks.shawn_wang.bio
+      t: Head of DX at Temporal
+    - key: picks.shawn_wang.description
+      t: |
+          Supabase is making Postgres accessible to more developers and showing
+          everyone how a small focused team can out-ship peers 10x their size.
+
+    - key: picks.sarah_drasner.name
+      t: Pawel Kozlowski
+    - key: picks.sarah_drasner.bio
+      t:
+    - key: picks.sarah_drasner.description
+      t: |
+          Pawel Kozlowski is the kind of developerwho can be open-minded to different
+          approaches with humility and curiosity with the interest of improving things.
+
+    - key: picks.sara_vieira.name
+      t: Paul Henschel
+    - key: picks.sara_vieira.bio
+      t: International Agent of JS Bullshit
+    - key: picks.sara_vieira.description
+      t: |
+          Paul's work on animations and ReactThreeFiber
+          have made doing any kind of 3D work on the web way easier.
+
+    - key: picks.mark_erikson.name
+      t: Ryan Carniato
+    - key: picks.mark_erikson.bio
+      t: Redux Maintainer
+    - key: picks.mark_erikson.description
+      t: |
+          Ryan's reactive JS framework SolidJS hit 1.0,
+          and he wrote numerous articles analyzing advanced
+          JS framework implementation concepts.
+
+    - key: picks.miguel_angel_duran.name
+      t: Vite
+    - key: picks.miguel_angel_duran.bio
+      t: Front End Dev & Twitch Coding Streamer
+    - key: picks.miguel_angel_duran.description
+      t: |
+          In addition to esbuild and swc, fantastic tools pushing forward the ecosystem,
+          I'm enjoying Vite. It has a delightful DX, and it's rich in features.
+
+    - key: picks.alyssa_nicoll.name
+      t: BroccoDev's Twitch Stream
+    - key: picks.alyssa_nicoll.bio
+      t: Sr. Developer Advocate at Progress
+    - key: picks.alyssa_nicoll.description
+      t: |
+        Mike Brocchi recently started streaming to Twitch. He is a brilliant programmer,
+        developer, and most importantly teacher.
+        I always have a blast watching his streams and learning from him.
+
+    - key: picks.michael_jackson.name
+      t: esbuild
+    - key: picks.michael_jackson.bio
+      t: Co-founder of Remix
+    - key: picks.michael_jackson.description
+      t: |
+        We have been building the Remix compiler on top of esbuild and it
+        has definitely raised the bar as far as JS bundlers are concerned.
+        It's incredibly fast and the plugin API allows us to do pretty much anything we want.
+
+    - key: picks.david_khourshid.name
+      t: Remix
+    - key: picks.david_khourshid.bio
+      t: Pianist and founder of Stately
+    - key: picks.david_khourshid.description
+      t: |
+          Remix is a full-stack web framework that feels old-school, but in a good way,
+          by putting you on the path to create fast, complex, and accessible modern web apps.
+
+    - key: picks.kent_c_dodds.name
+      t: Fly.io
+    - key: picks.kent_c_dodds.bio
+      t: Director of Developer Experience, Remix
+    - key: picks.kent_c_dodds.description
+      t: |
+          Fly enabled me (a frontend engineer with a distain for DevOps)
+          to confidently deploy a real-world, globally-distributed, production-grade
+          app.
+
+    - key: picks.tejas_kumar.name
+      t: Joe Haddad
+    - key: picks.tejas_kumar.bio
+      t: Web Developer, Conference Speaker, and Director of DevRel at Xata
+    - key: picks.tejas_kumar.description
+      t: |
+          Joe works on Next.js at Vercel and is constantly looking to proudly
+          demonstrate its power while actively listening
+          to feedback from the community to support them better.
+
+    - key: picks.xxxx.name
+      t:
+    - key: picks.xxxx.bio
+      t:
+    - key: picks.xxxx.description
+      t: |
+
+    - key: picks.xxxx.name
+      t:
+    - key: picks.xxxx.bio
+      t:
+    - key: picks.xxxx.description
+      t: |
+
+    - key: picks.xxxx.name
+      t:
+    - key: picks.xxxx.bio
+      t:
+    - key: picks.xxxx.description
+      t: |
+###########################################################################
+# Sponsors
+###########################################################################
+
+    - key: partners.frontendmasters.description
+      t: Advance your skills with in-depth, modern front-end engineering courses.
+    - key: partners.polypane.description
+      t: The browser for ambitious devs. Build responsive, accessible and fast websites with ease.
+    - key: partners.google_chrome.description
+      t: Thanks to the Google Chrome team for supporting our work.
+
+###########################################################################
+# FAQ/About
+###########################################################################
+
+    - key: about.content
+      t: >
+            The 2021 State of CSS survey ran from October 5 to November 2 2021, and collected 8714 responses. The survey is run by me, [Sacha Greif](https://sachagreif.com/), with help from a team of open-source contributors and consultants.
+
+
+            This year's logo and t-shirt were designed and animated by [Christopher Kirk-Nielsen](http://chriskirknielsen.com/).
+
+            ### Survey Goals
+
+            This survey, along with the [State of JavaScript](https://stateofjs.com/) survey, was created to identify upcoming trends in the web development ecosystem in order to help developers make technological choices.
+
+
+            As such, these surveys are focused on anticipating what's coming over the next few years rather than analyzing what's popular now, which is why the features or technologies that are currently most widespread are not always included.
+
+            ### Survey Design
+
+            The survey was designed in part based on last year's survey, with an open feedback period where the survey outline was discussed [on GitHub](https://github.com/StateOfJS/StateOfCSS-2020/issues/8).
+
+            All survey questions were optional.
+
+            ### Survey Audience
+
+            The survey was openly accessible online and respondents were not filtered or selected in any way. Respondents were primarily a mix of respondents from past surveys (alerted through a dedicated mailing list) and social media traffic.
+
+            ### Representativeness & Inclusivity
+
+            While we believe it's important to give a voice to every community, the reality is that an open survey like this one will always struggle to properly represent everybody, especially when operating through systems that already carry their own inherent biases.
+
+
+            In order to counter-balance this, we are implementing three distinct strategies:
+
+
+            - **Outreach**: this year, we reached out to 23 organizations representing BIPOC and LGBTQ developers in the hopes of partnering up. While very few of them replied, we will keep looking for ways to reach out beyond our current audience.
+
+            - **Data Analysis**: through features like facets and variants, we're always trying to make it easier to surface the voices of any demographic segment, no matter how minoritized it might be in our data.
+
+            - **Barrier Lowering**: making the survey too long, inaccessible, slow to load, English-only, etc. can all contribute to imposing an "effort tax" that cuts off the parts of the community that can't afford to pay it. Fixing these issues can lower the barrier to entry and in the process make our audience more diverse.
+
+            ### Project Funding
+
+            Funding from this project comes from a variety of sources:
+
+
+            - **T-shirt sales**.
+
+            - **Sponsored links**: the links to recommended resources at the bottom of each page are provided by our partner [Frontend Masters](https://frontendmasters.com/).
+
+            - **Other Funding**: this year, the [Google Chrome](https://www.google.com/chrome/) team set aside a small budget to help hire an [accessibility consultant](https://fossheim.io/) to work on the survey.
+
+
+            Despite these funding sources, the surveys remains mostly a self-funded project overall and any contribution or sponsorship would be greatly appreciated. I would especially like to work closely with more browser vendors, since they play such a central role in the web ecosystem.
+
+            ### Technical Overview
+
+            You can find a more in-depth technical overview of how the surveys are run [here](https://dev.to/sachagreif/how-the-state-of-js-css-surveys-are-run-4lnb).
+
+            - **Data collection**: custom [Vulcan.js](http://vulcanjs.org/) app.
+
+            - **Data storage/processing**: MongoDB & MongoDB Aggregations.
+
+            - **Data API**: Node.js GraphQL API.
+
+            - **Results Site**: [Gatsby](https://www.gatsbyjs.com/) React app.
+
+            - **Data Visualizations**: [Nivo](https://nivo.rocks/) React dataviz library.
+
+            - **Type**: [IBM Plex Mono](https://fonts.google.com/specimen/IBM+Plex+Mono) and [Bebas Neue](https://fonts.google.com/specimen/Bebas+Neue).
