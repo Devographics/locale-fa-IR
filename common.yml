@@ -677,89 +677,89 @@ translations:
 
     # Industry Sector
     - key: options.industry_sector.ecommerce
-      t: Ecommerce & Retail
+      t: تجارت الکترونیک و خرده فروشی
     - key: options.industry_sector.news_media
-      t: News, Media, & Blogging
+      t: اخبار، رسانه و وبلاگ نویسی
     - key: options.industry_sector.healthcare
-      t: Healthcare
+      t: بهداشتی
     - key: options.industry_sector.finance
-      t: Finance
+      t: مالی
     - key: options.industry_sector.programming_tools
-      t: Programming & Technical Tools
+      t: برنامه‌نویسی و ابزارهای فنی
     - key: options.industry_sector.socialmedia
-      t: Social Media
+      t: شبکه‌های اجتماعی
     - key: options.industry_sector.marketing_tools
-      t: Marketing/Sales/Analytics Tools
+      t: ابزارهای بازاریابی / فروش / تجزیه و تحلیل
     - key: options.industry_sector.education
-      t: Education
+      t: آموزش
     - key: options.industry_sector.real_estate
-      t: Real Estate
+      t: املاک
     - key: options.industry_sector.government
-      t: Government
+      t: دولت
     - key: options.industry_sector.entertainment
-      t: Entertainment
+      t: سرگرمی
     - key: options.industry_sector.consulting
-      t: Consulting & Services
+      t: خدمات مشاوره
     - key: options.industry_sector.travel
-      t: Travel
+      t: گردشگری
     - key: options.industry_sector.insurance
-      t: Insurance
+      t: بیمه
     - key: options.industry_sector.logistics
-      t: Logistics
+      t: لجستیک
     - key: options.industry_sector.energy
-      t: Energy
+      t: انرژی
     - key: options.industry_sector.telecommunications
-      t: Telecommunications
+      t: مخابرات
     - key: options.industry_sector.student
-      t: Student
+      t: دانش‌آموزان
     - key: options.industry_sector.hospitality
-      t: Hospitality
+      t: هتل‌داری
     - key: options.industry_sector.cyber_security
-      t: Cyber Security
+      t: امنیت سایبری
     - key: options.industry_sector.construction
-      t: Construction
+      t: ساخت و ساز
     - key: options.industry_sector.automotive
-      t: Automotive
+      t: خودرو
     - key: options.industry_sector.agriculture
-      t: Agriculture
+      t: کشاورزی
     - key: options.industry_sector.transport
-      t: Transport
+      t: حمل و نقل
     - key: options.industry_sector.manufacturing
-      t: Manufacturing
+      t: ساخت
 
     # tool evaluation
     - key: options.tool_evaluation.learning_curve_documentation
-      t: Documentation
+      t: مستندات
     - key: options.tool_evaluation.learning_curve_documentation.description
-      t: Is it easy to learn and/or well-documented?
+      t: آیا یادگیری آن آسان و/یا خوب مستند سازی شده است؟
     - key: options.tool_evaluation.momentum_popularity
-      t: Hype & Momentum
+      t: مد و هایپ بودن
     - key: options.tool_evaluation.momentum_popularity.description
-      t: Is it currently generating a lot of buzz?
+      t: آیا در حال حاضر سر و صدای زیادی ایجاد کرده است؟
     - key: options.tool_evaluation.user_base_size
-      t: User Base Size
+      t: تعداد کاربران
     - key: options.tool_evaluation.user_base_size.description
-      t: Is it a well-established option with a long track record?
+      t: آیا این یک گزینه ثابت شده با سابقه طولانی است؟
     - key: options.tool_evaluation.developer_experience_tooling
-      t: Developer Experience
+      t: تجربه توسعه دهندگان
     - key: options.tool_evaluation.developer_experience_tooling.description
-      t: Does it have good developer tools, a large plugin ecosystem, etc.?
+      t: آیا ابزارهای توسعه دهنده خوب، پلاگین‌ها و اکوسیستم بزرگ و... دارد؟
     - key: options.tool_evaluation.performance_user_experience
-      t: User Experience
+      t: تجربه کاربری
     - key: options.tool_evaluation.performance_user_experience.description
-      t: Does it help you create smooth, performant user experiences?
+      t: آیا به شما کمک می‌کند تا تجربه کاربری روان و کاربردی ایجاد کنید؟
     - key: options.tool_evaluation.creator_team
-      t: Creator & Team
+      t: سازنده و تیم
     - key: options.tool_evaluation.creator_team.description
-      t: Is it backed by a well-known, well-funded, or experienced team?
+      t: آیا توسط یک تیم شناخته شده و با تجربه پشتیبانی می‌شود؟
     - key: options.tool_evaluation.accessibility_features
-      t: Accessibility Features
+      t: ویژگی های دستیابی پذیری
     - key: options.tool_evaluation.accessibility_features.description
-      t: Is it good at creating accessible experiences for all users?
+      t: آیا در ایجاد تجربه دسترسی پذیر برای همه کاربران خوب است؟
     - key: options.tool_evaluation.community_inclusivity
-      t: Community & Inclusivity
+      t: جامعه و فراگیری
     - key: options.tool_evaluation.community_inclusivity.description
-      t: Does it have a welcoming, vibrant community built around it?
+      t: آیا جامعه ای پر جنب و جوش و خوشایند در اطراف خود دارد؟
 
 
 
