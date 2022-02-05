@@ -7,48 +7,45 @@ translations:
     - key: homepage.hand_coded
       t: Hand-coded in Japan.
     - key: homepage.leave_issue
-      t: Leave an issue
+      t: یک تیکت باز کنید
     - key: homepage.get_in_touch
-      t: Get in touch
+      t: در تماس باشید
 
     - key: homepage.made_by
-      t: 'The State of CSS is Made by:'
-    - key: homepage.leave_issue
-      t: Leave an issue
+      t: 'نظرسنجی State of CSS ساخته شده توسط:'
 
     - key: homepage.previous_years
-      t: 'Previous Years:'
+      t: 'سال‌های گذشته:'
 
     - key: homepage.intro
       t: >
-          ## CSS is evolving faster than ever.
+          ## CSS سریعتر از همیشه در حال پیشرفت است.
 
-          Flexbox, Grid, Multi-Column… To say nothing of whole new paradigms like CSS-in-JS.
+          قابلیت‌هایی مانند Flexbox, Grid, Multi-Column… حتی با در نظر نگرفتن پارادایم کاملا جدید CSS-in-JS.
 
-          So after the success of our annual [State Of JavaScript](https://stateofjs.com) survey, we’ve decided to take on
-          the world of styles and selectors to help identify the latest trends… and try to bridge
-          the ever-growing “great front-end divide”!
+          بنابراین پس از موفقیت سالانه نظرسنجی‌مان [State Of JavaScript](https://stateofjs.com), تصمیم گرفتیم
+          برای کمک به شناسایی جدیدترین گرایش‌ها به دنیای استایل‌ها و سلکتورها نیز قدم بگذاریم، و تلاش کنیم پلی بین "جداسازی بزرگ فرانت‌اند" باشیم.
 
     - key: homepage.take_survey
-      t: Take Survey
+      t: شرکت در نظرسنجی
 
     - key: homepage.view_results
-      t: View 2019 Results
+      t: دیدن نتایج ۲۰۱۹
 
     - key: share.help_spread
-      t: Help Spread the Word!
+      t: کمک به اشتراک‌گذاری!
 
     - key: newsletter.stay_tuned
-      t: Stay Tuned
+      t: همراه ما باشید
     - key: newsletter.leave_your_email
-      t: Leave us your email and we’ll let you know when the next survey takes place.
+      t: ایمیل خود را برای ما ارسال کنید تا زمانی که نظرسنجی بعدی شروع شود به شما اطلاع دهیم.
 
     - key: author.sacha.bio
       t: >
-          Creator of the [Nivo](http://nivo.rocks/) JavaScript data visualization library as well
-          as [Mozaik](http://mozaik.rocks/), a tool for building beautiful dashboards.
+          سازنده [Nivo](http://nivo.rocks/) کتابخانه تصویرسازی داده‌ها و همچنین
+          [Mozaik](http://mozaik.rocks/), ابزاری برای ساخت داشبورهای زیبا.
 
     - key: author.raphael.bio
       t: >
-          Creator of the [Sidebar](http://sidebar.io) daily newsletter and
-          [VulcanJS](http://vulcanjs.org), a React+GraphQL open-source framework.
+          سازنده [Sidebar](http://sidebar.io) خبرنامه روزانه و
+          [VulcanJS](http://vulcanjs.org), چهارچوب متن‌باز React+GraphQL.

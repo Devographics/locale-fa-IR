@@ -11,7 +11,7 @@ translations:
     - key: accounts.error_minchar
       t: کلمه عبور شما بسیار کوتاه است
     - key: accounts.error_unknown
-      t: خطای غیر قابل پیش بینی
+      t: خطای غیر قابل پیش‌بینی
     - key: accounts.error_user_not_found
       t: کاربر پیدا نشد
     - key: accounts.error_username_already_exists
@@ -19,7 +19,7 @@ translations:
     - key: accounts.enter_username_or_email
       t: نام کاربری و یا کلمه عبور را وارد نمایید
     - key: accounts.error_internal_server_error
-      t: خطای داخلی در سرور
+      t: خطای داخلی سرور
     - key: accounts.error_token_expired
       t: توکن تغییر کلمه عبور اشتباه است
     - key: accounts.username_or_email
@@ -54,6 +54,10 @@ translations:
       t: ثبت نام
     - key: accounts.sign_in
       t: ورود
+    - key: accounts.switch_to_sign_up
+      t: حساب کاربری ندارید؟ ثبت نام کنید
+    - key: accounts.switch_to_sign_in
+      t: حساب کاربری دارید؟ ورود
     - key: accounts.sign_out
       t: خروج
     - key: accounts.cancel
@@ -71,5 +75,5 @@ translations:
     - key: accounts.questions
       t: >
           در صورتیکه هرگونه سوالی در ارتباط با نحوه استفاده ما از داده‌های شما دارید، و یا
-          میخواهید که اطلاعات شما از سیستم‌های ما حذف گردد، لطفن نامه‌ای به انگلیسی به آدرس ایمیل زیر
+          میخواهید که اطلاعات شما از سیستم‌های ما حذف گردد، لطفاً نامه‌ای به انگلیسی به آدرس ایمیل زیر
           ارسال نمایید: <a href="mailto:hello@stateofjs.com">hello@stateofjs.com</a>
