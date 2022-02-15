@@ -13,9 +13,9 @@ translations:
 
       بنابراین پس از موفقیت سالانه نظرسنجی‌مان [State Of JavaScript](https://stateofjs.com), تصمیم گرفتیم
       برای کمک به شناسایی جدیدترین گرایش‌ها به دنیای استایل‌ها و سلکتورها نیز قدم بگذاریم، و تلاش کنیم پلی بین "جداسازی بزرگ فرانت‌اند" باشیم.
-      
+
   - key: general.results.description
-    t:  نظرسنجی سالانه در مورد آخرین گرایش ها در CSS.
+    t: نظرسنجی سالانه در مورد آخرین گرایش ها در CSS.
 
   ###########################################################################
   # Sections
@@ -141,7 +141,7 @@ translations:
   - key: options.css_for_email.1
     t: من گاهی اوقات برای ایمیل کاربران css می نویسم.
   - key: options.css_for_email.1.short
-    t:  گاهی اوقات
+    t: گاهی اوقات
 
   - key: options.css_for_email.2
     t: من اکثر اوقات برای ایمیل کاربران css می نویسم.
@@ -159,7 +159,7 @@ translations:
   - key: options.what_do_you_use_css_for.design_systems
     t: سیستم های طراحی
   - key: options.what_do_you_use_css_for.blogs
-    t: وبلاگ ها یا سایر سایت های متنی 
+    t: وبلاگ ها یا سایر سایت های متنی
   - key: options.what_do_you_use_css_for.web_apps
     t: وب اپ ها
   - key: options.what_do_you_use_css_for.mobile_apps
@@ -700,7 +700,7 @@ translations:
     t: نرخ تغییر
 
   - key: opinions.utility_classes_to_be_avoided
-    t:  نباید از کلاس های بدون مفهوم (center، .large-text و غیره) استفاده کرد.
+    t: نباید از کلاس های بدون مفهوم (center، .large-text و غیره) استفاده کرد.
   - key: opinions.utility_classes_to_be_avoided.title
     t: کلاس های بدون مفهوم
 
@@ -787,7 +787,6 @@ translations:
   - key: currently_missing_from_css.currently_missing_from_css_matchups.description
     t: در حال حاضر بیشتر دوست دارید که بتوانید از کدام ویژگی در CSS استفاده کنید؟ درصد راندهای برد توسط آیتم سمت چپ در برابر آیتم سمت بالا.
 
-
   ###########################################################################
   # Resources
   ###########################################################################
@@ -796,4 +795,3 @@ translations:
     t: اولین قدم ها با CSS
   - key: resources.first_steps.description
     t: هنگامی که برای اولین بار شروع به کار کردید، ابتدا چگونه CSS را یاد گرفتید؟
-  
