@@ -7,13 +7,13 @@ translations:
     - key: sections.introduction.description
       t: |
 
-            <span class="first-letter">A</span> lot happened in 2021. So much in fact that the survey was pushed back all the way to 2022!
+            <span class="first-letter"></span> در سال 2021 اتفاقات زیادی رخ داد. در واقع آنقدر این اتفاقات زیاد بود که این نظرسنجی تا سال 2022 به تعویق افتاد!
 
-            Between a slew of faster build tools and a new crop of back-end frameworks, the JavaScript world kept evolving. And we did our best to keep up, giving this survey a couple new power-ups ([read more about what's new](https://dev.to/sachagreif/whats-new-in-the-20212022-state-of-javascript-4jkf)) such as new question types, the ability to cross-reference two datapoints (such as yearly salaries by experience level), and even a way to customize the charts to surface your own insights!
+            بین مجموعه‌ای از ابزارهای سریع‌تر و یک محصول جدید از فریم ورک های بک‌اند، دنیای جاوااسکریپت به تکامل ادامه داد. همچنین ما تمام تلاش خود را برای ادامه دادن انجام دادیم و به این نظرسنجی چند ویژگی پر قدرت اضافه کرده‌ایم. ([درباره ویژگی های جدید بیشتر بدانید](https://dev.to/sachagreif/whats-new-in-the-2021-state-of-javascript-survey-4eej)) مانند انواع سؤالات جدید، امکان ارجاع متقابل به دو نقطه (حقوق سالانه بر اساس سطح تجربه)، و حتی راهی برای سفارشی کردن نمودارها برای شما!
 
-            It wasn't all smooth sailing, though. We had to deal with a [data leak](https://dev.to/sachagreif/disclosing-a-state-of-javascriptstate-of-css-data-breach-2lg1) that thankfully didn't seem to have any bad consequences. And we're constantly making efforts to make the survey more inclusive, more accessibe, and more fair.
+             با این حال، همه چیز آرام و روان نبود. ما مجبور شدیم با یک [نشت داده] (https://dev.to/sachagreif/disclosing-a-state-of-javascriptstate-of-css-data-breach-2lg1) که خوشبختانه عواقب بدی نداشت، برخورد کنیم. و ما دائماً تلاش می کنیم تا نظرسنجی را فراگیرتر، در دسترس تر و منصفانه تر کنیم.
 
-            Still, even though the survey can ever only represents a tiny, tiny part of the JavaScript ecosystem, we hope you'll find the resulting data interesting!
+           با این وجود، این نظرسنجی می تواند تنها بخش کوچک و کوچکی از اکوسیستم جاوااسکریپت را نشان دهد، امیدواریم که داده های حاصل برای شما جالب باشد!
 
             <span class="conclusion__byline">– Sacha Greif</span>
 
