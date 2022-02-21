@@ -26,34 +26,34 @@ translations:
 
     - key: sections.tshirt.description
       t: |
-          ## Support the Survey With the State of CSS T-Shirt
+          ## با تی شرت state of css از نظرسنجی حمایت کنید.
 
-          Between the bad video quality, the bulky cassettes, and having to rewind, there's not much to miss about the VHS era. But one thing we *do* miss are the amazing 90s visuals that used to adorn blank VHS tapes.
+          بین کیفیت بد ویدیو، کاست های حجیم و نیاز به عقب بردن، چیز زیادی در مورد دوران VHS(سیستم ویدئوی خانگی) وجود ندارد که از دست بدهید. اما چیزی که ما از دست می‌دهیم، تصاویر شگفت‌انگیز دهه 90 است که نوارهای VHS خالی را تزئین می‌کردند.
 
-          But now, thanks to the talented Christopher Kirk-Nielsen you can enjoy all this retro radness while also celebrating your love for CSS at the same time!
+          اما اکنون، به لطف کریستوفر کرک نیلسن با استعداد، می‌توانید از این همه شور و شعف لذت ببرید و در عین حال عشق خود را به CSS نیز جشن بگیرید!
 
     - key: tshirt.about
-      t: About the T-shirt
+      t: در مورد تی شرت
 
     - key: tshirt.description
       t: |
-          We use a high-quality, super-soft tri-blend shirt with a slim fit printed by our partners at Cotton Bureau.
+          ما از یک پیراهن سه ترکیبی با کیفیت بالا و فوق العاده نرم و باریک استفاده می کنیم که توسط شرکای ما در Cotton Bureau چاپ شده است.
 
     - key: tshirt.getit
-      t: Get It
+      t: دریافت کنید
 
     - key: tshirt.price
-      t: USD $29 + shipping
+      t: 29 دلار آمریکا + حمل و نقل
 
     - key: tshirt.designer.heading
-      t: About the Designer
+      t: در مورد طراح
 
     - key: tshirt.designer.name
       t: Christopher Kirk-Nielsen
 
     - key: tshirt.designer.bio
       t: |
-          Originally from France but now based in the United States, Chris is not just an amazing front-end developer, but also a talented illustrator who specializes in retro visuals. In fact, we encourage you to also check out his [other t-shirt designs](https://chriskirknielsen.com/designs)!
+          کریس اصالتاً اهل فرانسه است، اما اکنون در ایالات متحده ساکن است، نه تنها یک توسعه‌دهنده شگفت‌انگیز است، بلکه یک تصویرگر با استعداد است که در جلوه‌های بصری تخصص دارد. در واقع، ما شما را تشویق می کنیم که [سایر طرح های تی شرت] (https://chriskirknielsen.com/designs) را نیز بررسی کنید!
 
     ###########################################################################
     # Sections
@@ -61,37 +61,31 @@ translations:
 
     - key: sections.user_info.description
       t: |
-          This year, **16,085** respondents took part in the survey. And in order
-          to help highlight different voices and surface deeper insights, we made a special
-          effort to provide new ways to break our data down.
+          امسال **16085** پاسخگو در این نظرسنجی شرکت کردند. به منظور کمک به برجسته کردن صداهای مختلف و ارائه بینش های عمیق تر، ما تلاش ویژه ای برای ارائه راه های جدید برای تجزیه داده های خود انجام دادیم.
 
     - key: sections.features.description
       t: |
-          JavaScript may move fast, but it seems like JavaScript developers move even faster, as many relatively new features already show high adoption levels.
+         جاوااسکریپت ممکن است سریع پیشرفت کند، اما به نظر می رسد که توسعه دهندگان جاوااسکریپت حتی سریعتر پیشرفت می کنند، زیرا بسیاری از ویژگی های نسبتاً جدید در حال حاضر سطوح بالای پذیرش را نشان می دهند.
 
     - key: sections.technologies.description
       t: |
-          This year's results point to a high degree of fragmentation in the JavaScript world. But while this can sometimes cause headaches, all that competition does make for a very dynamic ecosystem.
+          نتایج امسال به درجه بالایی از پراکندگی در دنیای جاوااسکریپت اشاره دارد. امااین موضوع گاهی اوقات خوب به نظر نمی رسد، تمام این رقابت‌ها باعث ایجاد یک اکوسیستم بسیار پویا می‌شود.
 
     - key: sections.tools_others.description
       t: |
-          Picking a technology can often come down to a series of tough choices between
-          competing priorities, and this year we tried to capture this process using a new bracket-style question format.
+          انتخاب یک تکنولوژِی اغلب می‌تواند به مجموعه‌ای از انتخاب‌های سخت بین اولویت‌های رقیب منجر شود، و امسال ما سعی کردیم این فرآیند را با استفاده از یک قالب سؤال جدید به سبک براکت به تصویر بکشیم.
 
     - key: sections.environments.description
       t: |
-          Accessibility has long been an after-thought when it comes to web development, but many developers
-          are now realizing that it should in fact be the foundation on which everything else rests.
+          دسترسی به توسعه وب مدت هاست که مورد توجه قرار گرفته است، اما بسیاری از توسعه دهندگان اکنون متوجه شده اند که در واقع باید محیطی باشد که همه چیز بر آن استوار باشد.
 
     - key: sections.resources.description
       t: |
-          Highlighting blogs, podcasts, and sites was a good start, but this year we decided to go one step further
-          and actually feature the people who make up the JavaScript community!
+          وبلاگ های برجسته، پادکست ها و سایت ها شروع خوبی بود، اما امسال تصمیم گرفتیم یک قدم جلوتر برویم و در واقع افرادی را که جامعه جاوااسکریپت را تشکیل می دهند، معرفی کنیم!
 
     - key: sections.opinions.description
       t: |
-          Whether it's pain points that hold you back today, or missing features that you hope to use
-          tomorrow, this was your chance to vent and share your gripes with JavaScript!
+          چه نقاط دردناکی وجود دارد که امروز شما را عقب نگه می‌دارد، چه ویژگی‌های از دست رفته‌ای که امیدوارید فردا از آن‌ها استفاده کنید، این فرصت شما بود تا مشکلات خود را با جاوااسکریپت به اشتراک بگذارید!
 
     ###########################################################################
     # Charts
