@@ -26,7 +26,7 @@ translations:
   - key: sections.layout.description
     t: چگونه عناصر را روی صفحه نمایش قرار می دهید؟
 
-  - key: sections.sha pes_graphics.title
+  - key: sections.shapes_graphics.title
     t: اشکال هندسی
   - key: sections.shapes_graphics.description
     t: کنترل شکل و نمایش عناصر.
