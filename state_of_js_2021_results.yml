@@ -104,38 +104,38 @@ translations:
 
     - key: blocks.gender.note
       t: |
-          If you're interested in learning more, we [wrote a blog post](https://dev.to/sachagreif/is-our-survey-biased-against-women-49oj) that addresses the survey's gender dynamics.
+          اگر مایلید بیشتر بدانید، ما [یک پست وبلاگ نوشتیم] (https://dev.to/sachagreif/is-our-survey-biased-against-women-49oj) که به پویایی جنسیتی این نظرسنجی می پردازد.
 
     - key: blocks.currently_missing_from_css.note
       t: |
-          You can explore the full dataset of answers to this question in [this side project](https://whatsmissingfromcss.com/).
+          می‌توانید مجموعه اطلاعات کامل پاسخ‌های این سؤال را در [این پروژه جانبی] (https://whatsmissingfromcss.com/) بررسی کنید.
 
     - key: blocks.source.note
       t: >
 
-        This chart aggregates a mix of referrers, URL parameters, and freeform answers.
+        این نمودار ترکیبی از ارجاع‌دهنده‌ها، پارامترهای URL و پاسخ‌های آزاد را جمع‌آوری می‌کند.
 
-        - State of JS: the [State of JS](https://stateofjs.com) mailing list.
+        - State of JS: فهرست پستی [State of JS](https://stateofjs.com).
 
-        - State of CSS: the State of CSS mailing list; also matches `email`, `by email`, etc.
+        - State of CSS: فهرست پستی State of css؛ با کلمات `email`, `by email` و غیره منطبق است.
 
-        - Work: matches `work`, `colleagues`, `coworkers`, etc.
+        - Work: کلمات منطبق `work`, `colleagues`, `coworkers` و غیره ...
 
     ###########################################################################
     # Awards
     ###########################################################################
 
     - key: award.feature_adoption_delta_award.comment
-      t: With a **{value}** progression in 2021, CSS comparison functions are becoming a key part of every CSS developer's toolkit.
+      t: با پیشرفت **{value}** در سال 2021، توابع مقایسه CSS به بخشی کلیدی از جعبه ابزار هر توسعه دهنده CSS تبدیل شده است.
 
     # - key: award.tool_usage_delta_award.comment
     #   t: No other tool comes even close to Tailwind CSS's dramatic **{value}** progression over the last year.
 
     - key: award.tool_satisfaction_award.comment
-      t: PostCSS takes the top spot once again with a **{value}** satisfaction ratio.
+      t: PostCSS بار دیگر با نسبت رضایت **{value}** در جایگاه اول قرار می گیرد.
 
     - key: award.tool_interest_award.comment
-      t: With a **{value}** ratio, CSS Modules again generated the most interest among CSS developers this year.
+      t: با نسبت **{value}**، ماژول های CSS دوباره بیشترین علاقه را در بین توسعه دهندگان CSS در سال جاری ایجاد کرد.
 
     # - key: award.most_write_ins_award.comment
     #   t: Many questions also accepted write-in answers, and with **{value}** mentions PhpStorm was the most popular item overall.
@@ -147,68 +147,63 @@ translations:
 
     - key: sections.conclusion.description
       t: |
-            <span class="first-line">The way you write CSS is about to change forever</span>
+            <span class="first-line">نحوه نوشتن CSS برای همیشه تغییر خواهد کرد</span>
 
-            For many years now, many innovations in writing styles for the web have happened elsewhere: in preprocessors, JavaScript frameworks, or compilers. To be sure, CSS itself has also received some welcome improvements like [aspect-ratio](https://developer.mozilla.org/en-US/docs/Web/CSS/aspect-ratio) or [custom properties](https://developer.mozilla.org/en-US/docs/Web/CSS/--*). Yet we still reach for libraries and other helpers on a daily basis.
+            طی سال‌های زیادی، نوآوری‌های بسیاری در استایل نوشتاری برای وب در جاهای دیگر اتفاق افتاده است: در پیش پردازنده‌ها، فریم ورک های جاوااسکریپت یا کامپایلرها. مطمئناً خود CSS نیز بهبودهایی مانند [aspect-ratio](https://developer.mozilla.org/en-US/docs/Web/CSS/aspect-ratio) یا [ویژگی های سفارشی](https://developer.mozilla.org/en-US/docs/Web/CSS/--*). با این حال، ما هنوز هم به طور روزانه به کتابخانه ها و سایر کمک ها می پردازیم.
 
-            But there's a change coming. The core CSS language is getting shaken up and renewed, and we're right at the forefront of accelerated evolution.
+            اما تغییری در راه است زبان اصلی CSS در حال تکان خوردن و تجدید است و ما درست در خط مقدم تکامل هستیم.
 
-            [Container Queries](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Container_Queries) will bring in an entirely new era of responsive design, and [Cascade Layers](https://developer.mozilla.org/en-US/docs/Web/CSS/@layer) will make our use of frameworks, theming and managing complex codebases significantly easier.
+            [Container Queries](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Container_Queries) عصر کاملاً جدیدی از طراحی پاسخگو(رسپانسیو) را به ارمغان خواهد آورد. و [Cascade Layers] (https://developer.mozilla.org/en-US/docs/Web/CSS/@layer) استفاده ما از فریم ورک ها، قالب‌بندی و مدیریت پایگاه‌های کد پیچیده را بسیار آسان‌تر می‌کند.
 
-            When we look a little further ahead, we can also see the [@when/else conditional](https://css-tricks.com/proposal-for-css-when/) coming up, which will let us combine media, container and supports queries into a single at-rule.
+            وقتی به جلوتر نگاه می‌کنیم، می‌توانیم [@when/else](https://css-tricks.com/proposal-for-css-when/) را نیز ببینیم که در حال آمدن است، که به ما اجازه می‌دهد media را ترکیب کنیم، کانتینر ها و کوئری ها را در یک قانون واحد پشتیبانی می کند.
 
-            And fingers crossed, 2022 is the year we finally see some movement on native CSS nesting. Those of us that work with tools like Sass and PostCSS already couldn't imagine another way of working.
+            با گذشت زمان، سال 2022 سالی است که در نهایت شاهد حرکتی د CSS هستیم و آن قابلیت تودرتو یا nesting است. توسعه دهندگانی که با ابزارهایی مانند Sass و PostCSS کار می‌کنند، تصور نمی کردند که بتوانند بدون استفاده از آنها این قابلیت را داشته باشند.
 
-            All of this together means that 2022 is likely to be a year where the way you write CSS is going to fundamentally change. It's an incredibly exciting period, and we look forward to all the amazing implementations in the year to come.
+            همه این موضوعات به این معنی است که سال 2022 احتمالاً سالی است که در آن نحوه نوشتن CSS به طور اساسی تغییر خواهد کرد. این یک دوره فوق‌العاده هیجان‌انگیز است، و ما مشتاقانه منتظرپیاده‌سازی‌های شگفت‌انگیز در سال آینده هستیم.
 
     - key: conclusion.bio
-      t: Web developer and creator of Polypane
+      t: توسعه دهنده وب و خالق Polypane
 
     ###########################################################################
     # Picks
     ###########################################################################
 
     - key: picks.my_pick
-      t: 'My 2021 Pick: '
+      t: 'انتخاب من در سال 2021: '
     - key: picks.intro
-      t: We asked members of the CSS community to share their “pick of the year”
+      t: ما از اعضای جامعه CSS خواستیم تا «انتخاب سال» خود را به اشتراک بگذارند.
 
     - key: picks.lee_robinson.name
       t: SvelteKit
     - key: picks.lee_robinson.bio
-      t: Director of Developer Relations at Vercel
+      t: مدیر روابط توسعه دهندگان Vercel
     - key: picks.lee_robinson.description
       t: |
-          SvelteKit is a fresh take on building for the web and has an
-          incredibly passionate, growing community of supporters.
+          SvelteKit برداشت جدیدی در زمینه وب است و دارای یک جامعه فوق العاده پرشور و در حال رشد است.
 
     - key: picks.vadim_makeev.name
-      t: Server-Side Rendering
+      t: رندر سمت سرور
     - key: picks.vadim_makeev.bio
       t: DevRel, Podcaster & Web Standards Advocate
     - key: picks.vadim_makeev.description
       t: |
-          The time has come to get our priorities straight.
-          UX > DX, and it has always been like that. Performance FTW!
+          زمان آن رسیده است که اولویت هایمان را مشخص کنیم. UX > DX، و همیشه همینطور بوده است. عملکرد FTW!
 
     - key: picks.ben_ilegbodu.name
-      t: Lee Robinson
+      t: لی رابینسون
     - key: picks.ben_ilegbodu.bio
-      t: Ben Ilegbodu, Principal Frontend Engineer @ Stitch Fix
+      t: بن ایلگبودو، مهندس اصلی فرانت اند در Stitch Fix
     - key: picks.ben_ilegbodu.description
       t: |
-          Lee has been great at shepherding and advocating for Next.js.
-          He's helped me a ton with Next and continues to build excitement
-          for where it's going
+          لی در حمایت از Next.js فوق العاده بوده است. او در Next به من کمک زیادی کرد و همچنان به ایجاد هیجان برای جایی که می رود ادامه می دهد.
 
     - key: picks.shawn_wang.name
       t: Supabase
     - key: picks.shawn_wang.bio
-      t: Head of DX at Temporal
+      t: رئیس DX در Temporal
     - key: picks.shawn_wang.description
       t: |
-          Supabase is making Postgres accessible to more developers and showing
-          everyone how a small focused team can out-ship peers 10x their size.
+          Supabase Postgres برای توسعه دهندگان بیشتری در دسترس قرار می گیرد و به همه نشان می دهد که چگونه یک تیم کوچک متمرکز می تواند 10 برابر اندازه آنها از همتایان خود عبور کند.
 
     - key: picks.sarah_drasner.name
       t: Pawel Kozlowski
@@ -216,17 +211,15 @@ translations:
       t:
     - key: picks.sarah_drasner.description
       t: |
-          Pawel Kozlowski is the kind of developerwho can be open-minded to different
-          approaches with humility and curiosity with the interest of improving things.
+            پاول کوزلوفسکی از آن دسته از توسعه دهندگانی است که می تواند با تواضع و کنجکاوی به رویکردهای مختلف و با علاقه به بهبود کارها نگاهی باز داشته باشد.
 
     - key: picks.sara_vieira.name
       t: Paul Henschel
     - key: picks.sara_vieira.bio
-      t: International Agent of JS Bullshit
+      t: نماینده بین المللی JS Bullshit
     - key: picks.sara_vieira.description
       t: |
-          Paul's work on animations and ReactThreeFiber
-          have made doing any kind of 3D work on the web way easier.
+          کار پل روی انیمیشن‌ها و React Three Fiber انجام هر نوع کار سه بعدی را در وب آسان‌تر کرده است.
 
     - key: picks.mark_erikson.name
       t: Ryan Carniato
@@ -234,9 +227,7 @@ translations:
       t: Redux Maintainer
     - key: picks.mark_erikson.description
       t: |
-          Ryan's reactive JS framework SolidJS hit 1.0,
-          and he wrote numerous articles analyzing advanced
-          JS framework implementation concepts.
+          فریمورک واکنش پذیر SolidJS به ورژن 1.0 رسید و مقالات متعددی را در تحلیل مفاهیم پیاده سازی فریم ورک JS پیشرفته نوشت.
 
     - key: picks.miguel_angel_duran.name
       t: Vite
@@ -244,8 +235,7 @@ translations:
       t: Front End Dev & Twitch Coding Streamer
     - key: picks.miguel_angel_duran.description
       t: |
-          In addition to esbuild and swc, fantastic tools pushing forward the ecosystem,
-          I'm enjoying Vite. It has a delightful DX, and it's rich in features.
+          علاوه بر esbuild و swc، ابزارهای خارق‌العاده‌ای که اکوسیستم را به جلو می‌برند، من از Vite لذت می‌برم. این DX لذت بخش است و دارای ویژگی های غنی است.
 
     - key: picks.alyssa_nicoll.name
       t: BroccoDev's Twitch Stream
@@ -253,9 +243,7 @@ translations:
       t: Sr. Developer Advocate at Progress
     - key: picks.alyssa_nicoll.description
       t: |
-        Mike Brocchi recently started streaming to Twitch. He is a brilliant programmer,
-        developer, and most importantly teacher.
-        I always have a blast watching his streams and learning from him.
+        مایک بروچی اخیراً شروع به پخش در Twitch کرده است. او یک برنامه نویس، توسعه دهنده و مهمتر از همه معلم است. من همیشه از تماشای او و یادگیری از او خوشحال می شوم.
 
     - key: picks.michael_jackson.name
       t: esbuild
@@ -263,9 +251,7 @@ translations:
       t: Co-founder of Remix
     - key: picks.michael_jackson.description
       t: |
-        We have been building the Remix compiler on top of esbuild and it
-        has definitely raised the bar as far as JS bundlers are concerned.
-        It's incredibly fast and the plugin API allows us to do pretty much anything we want.
+        ما در حال ساخت کامپایلر Remix در بالای esbuild بوده‌ایم و قطعاً تا آنجایی که به باندلرهای JS مربوط می‌شود، سطح آن را بالا برده است. فوق العاده سریع است و API پلاگین به ما امکان می دهد تقریباً هر کاری را که می خواهیم انجام دهیم.
 
     - key: picks.david_khourshid.name
       t: Remix
@@ -273,8 +259,7 @@ translations:
       t: Pianist and founder of Stately
     - key: picks.david_khourshid.description
       t: |
-          Remix is a full-stack web framework that feels old-school, but in a good way,
-          by putting you on the path to create fast, complex, and accessible modern web apps.
+          Remix یک فریم ورک فول استکس برای وب است که احساس می شود قدیمی است، اما به روشی خوب، با قرار دادن شما در مسیر ایجاد برنامه های وب مدرن سریع، پیچیده و در دسترس است.
 
     - key: picks.kent_c_dodds.name
       t: Fly.io
@@ -282,9 +267,7 @@ translations:
       t: Director of Developer Experience, Remix
     - key: picks.kent_c_dodds.description
       t: |
-          Fly enabled me (a frontend engineer with a distain for DevOps)
-          to confidently deploy a real-world, globally-distributed, production-grade
-          app.
+          Fly به من این امکان را داد که با خیال راحت یک برنامه در سطح تولید در جهان واقعی، توزیع شده در سطح جهانی را اجرا کنم.
 
     - key: picks.tejas_kumar.name
       t: Joe Haddad
@@ -292,9 +275,7 @@ translations:
       t: Web Developer, Conference Speaker, and Director of DevRel at Xata
     - key: picks.tejas_kumar.description
       t: |
-          Joe works on Next.js at Vercel and is constantly looking to proudly
-          demonstrate its power while actively listening
-          to feedback from the community to support them better.
+          جو روی Next.js در Vercel کار می کند و دائماً به دنبال نشان دادن قدرت خود با افتخار است در حالی که فعالانه به بازخوردهای جامعه گوش می دهد تا از آنها حمایت بهتری کند.
 
     - key: picks.xxxx.name
       t:
@@ -321,11 +302,11 @@ translations:
 ###########################################################################
 
     - key: partners.frontendmasters.description
-      t: Advance your skills with in-depth, modern front-end engineering courses.
+      t: مهارت های خود را با دوره های مهندسی پیشرفته و عمیق ارتقا دهید.
     - key: partners.polypane.description
-      t: The browser for ambitious devs. Build responsive, accessible and fast websites with ease.
+      t: مرورگر برای برنامه نویسان بلندپرواز. وب‌سایت‌های واکنش‌گرا، در دسترس و سریع را به آسانی بسازید.
     - key: partners.google_chrome.description
-      t: Thanks to the Google Chrome team for supporting our work.
+      t: با تشکر از تیم Google Chrome برای حمایت از کار ما.
 
 ###########################################################################
 # FAQ/About
