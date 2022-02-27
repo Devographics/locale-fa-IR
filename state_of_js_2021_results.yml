@@ -314,59 +314,59 @@ translations:
 
     - key: about.content
       t: >
-            The 2021 State of CSS survey ran from October 5 to November 2 2021, and collected 8714 responses. The survey is run by me, [Sacha Greif](https://sachagreif.com/), with help from a team of open-source contributors and consultants.
+            نظرسنجی 2021 State of CSS از 5 اکتبر تا 2 نوامبر 2021 انجام شد و در مجموع 8714 پاسخ جمع آوری شد. این نظرسنجی توسط من، [Sacha Greif] (https://sachagreif.com/)، با کمک تیمی از مشارکت کنندگان اپن سورس اجرا می شود.
 
 
-            This year's logo and t-shirt were designed and animated by [Christopher Kirk-Nielsen](http://chriskirknielsen.com/).
+            لوگو و تی شرت امسال توسط [کریستوفر کرک نیلسن] (http://chriskirknielsen.com/) طراحی و متحرک شده است.
 
-            ### Survey Goals
+            ### اهداف نظرسنجی
 
-            This survey, along with the [State of JavaScript](https://stateofjs.com/) survey, was created to identify upcoming trends in the web development ecosystem in order to help developers make technological choices.
-
-
-            As such, these surveys are focused on anticipating what's coming over the next few years rather than analyzing what's popular now, which is why the features or technologies that are currently most widespread are not always included.
-
-            ### Survey Design
-
-            The survey was designed in part based on last year's survey, with an open feedback period where the survey outline was discussed [on GitHub](https://github.com/StateOfJS/StateOfCSS-2020/issues/8).
-
-            All survey questions were optional.
-
-            ### Survey Audience
-
-            The survey was openly accessible online and respondents were not filtered or selected in any way. Respondents were primarily a mix of respondents from past surveys (alerted through a dedicated mailing list) and social media traffic.
-
-            ### Representativeness & Inclusivity
-
-            While we believe it's important to give a voice to every community, the reality is that an open survey like this one will always struggle to properly represent everybody, especially when operating through systems that already carry their own inherent biases.
+            این نظرسنجی، همراه با نظرسنجی [State of JavaScript] (https://stateofjs.com/)، برای شناسایی روندهای آتی در اکوسیستم توسعه وب به منظور کمک به توسعه دهندگان در انتخاب های تکنولوژیکی ایجاد شده است.
 
 
-            In order to counter-balance this, we are implementing three distinct strategies:
+            به این ترتیب، این نظرسنجی‌ها به جای تجزیه و تحلیل آنچه که در حال حاضر محبوب است، بر پیش‌بینی آنچه در چند سال آینده اتفاق می‌افتد متمرکز است، به همین دلیل است که ویژگی‌ها یا فناوری‌هایی که در حال حاضر گسترده‌تر هستند، همیشه شامل نمی‌شوند.
+
+            ### طراحی نظرسنجی
+
+            این نظرسنجی تا حدی بر اساس نظرسنجی سال گذشته طراحی شد، با یک دوره بازخورد آزاد [در گیت هاب](https://github.com/StateOfJS/StateOfCSS-2020/issues/8) که در آن طرح کلی نظرسنجی مورد بحث قرار گرفت.
+
+            تمام سوالات نظرسنجی اختیاری بود.
+
+            ### نظرسنجی از مخاطبان
+
+            این نظرسنجی به صورت آنلاین در دسترس بود و پاسخ دهندگان به هیچ وجه فیلتر یا انتخاب نشدند. پاسخ دهندگان امسال عمدتاً ترکیبی از پاسخ دهندگان گذشته (که از طریق ایمیل به آنها اعلام شده بود) و رسانه های اجتماعی بودند.
+
+            ### نمایندگی و فراگیر بودن
+
+            در حالی که ما معتقدیم که آزادی دادن به هر جامعه ای مهم است، واقعیت این است که یک نظرسنجی باز مانند این همیشه برای نشان دادن همه افراد تلاش می کند، به خصوص زمانی که از طریق سیستم هایی کار می کنند که قبلاً دارای تعصبات ذاتی خود بودند.
 
 
-            - **Outreach**: this year, we reached out to 23 organizations representing BIPOC and LGBTQ developers in the hopes of partnering up. While very few of them replied, we will keep looking for ways to reach out beyond our current audience.
-
-            - **Data Analysis**: through features like facets and variants, we're always trying to make it easier to surface the voices of any demographic segment, no matter how minoritized it might be in our data.
-
-            - **Barrier Lowering**: making the survey too long, inaccessible, slow to load, English-only, etc. can all contribute to imposing an "effort tax" that cuts off the parts of the community that can't afford to pay it. Fixing these issues can lower the barrier to entry and in the process make our audience more diverse.
-
-            ### Project Funding
-
-            Funding from this project comes from a variety of sources:
+            برای متعادل کردن این امر، ما سه استراتژی مجزا را اجرا می کنیم:
 
 
-            - **T-shirt sales**.
+            - **توسعه**: امسال با 23 سازمان به نمایندگی از توسعه دهندگان BIPOC و LGBTQ تماس گرفتیم به امید همکاری. در حالی که تعداد بسیار کمی از آنها پاسخ دادند، ما همچنان به دنبال راه هایی برای رسیدن به بیشتر کردن مخاطبان فعلی خود خواهیم بود.
 
-            - **Sponsored links**: the links to recommended resources at the bottom of each page are provided by our partner [Frontend Masters](https://frontendmasters.com/).
+            - **تحلیل داده ها**: از طریق ویژگی هایی مانند جنبه ها و انواع مختلف، ما همیشه سعی می کنیم صدای هر بخش جمعیتی را آسان تر نماییم، صرف نظر از اینکه چقدر ممکن است در داده های ما کوچک باشد.
 
-            - **Other Funding**: this year, the [Google Chrome](https://www.google.com/chrome/) team set aside a small budget to help hire an [accessibility consultant](https://fossheim.io/) to work on the survey.
+            - **کاهش موانع**: طولانی کردن نظرسنجی، غیرقابل دسترس بودن، لودینگ کند، تک زبانه بودن و ... همگی می توانند به تحمیل "مالیات بر تلاش" کمک کنند که بخش هایی از جامعه را که توانایی پرداخت آن را ندارند قطع می کند. رفع این مشکلات می تواند موانع را کاهش دهد و در این روند مخاطبان ما را متنوع تر کند.
+
+            ### تامین مالی پروژه
+
+            تامین مالی این پروژه از منابع مختلفی تامین می شود:
 
 
-            Despite these funding sources, the surveys remains mostly a self-funded project overall and any contribution or sponsorship would be greatly appreciated. I would especially like to work closely with more browser vendors, since they play such a central role in the web ecosystem.
+            - **فروش تیشرت**.
 
-            ### Technical Overview
+            - **پیوندهای حمایت شده**: پیوندهای توصیه شده در پایین هر صفحه توسط شریک ما [Frontend Masters] (https://frontendmasters.com/) ارائه شده است.
 
-            You can find a more in-depth technical overview of how the surveys are run [here](https://dev.to/sachagreif/how-the-state-of-js-css-surveys-are-run-4lnb).
+            - **تامین مالی دیگر**: امسال تیم [Google Chrome](https://www.google.com/chrome/) بودجه کمی را برای کمک به استخدام یک [مشاور دسترسی](https://fossheim.io/) برای کار در نظرسنجی اختصاص داد.
+
+
+            علی‌رغم این منابع مالی، نظرسنجی‌ها به طور کلی عمدتاً پروژه‌ای است که خود تأمین مالی می‌شود و هر گونه کمک یا حمایت مالی بسیار قدردانی می‌شود. من به ویژه مایلم از نزدیک با فروشندگان مرورگر بیشتری کار کنم، زیرا آنها نقش اصلی را در اکوسیستم وب دارند.
+
+            ### بررسی اجمالی فنی
+
+            می‌توانید یک نمای فنی دقیق‌تر از نحوه اجرای نظرسنجی‌ها [اینجا] (https://dev.to/sachagreif/how-the-state-of-js-css-surveys-are-run-4lnb) ببینید.
 
             - **Data collection**: custom [Vulcan.js](http://vulcanjs.org/) app.
 
