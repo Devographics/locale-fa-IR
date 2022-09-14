@@ -290,11 +290,11 @@ translations:
 # Sponsors
 ###########################################################################
 
-    - key: partners.frontendmasters.description
+    - key: sponsors.frontendmasters.description
       t: مهارت های خود را با دوره های مهندسی پیشرفته و عمیق ارتقا دهید.
-    - key: partners.polypane.description
+    - key: sponsors.polypane.description
       t: مرورگر برای برنامه نویسان بلندپرواز. وب‌سایت‌های واکنش‌گرا، در دسترس و سریع را به آسانی بسازید.
-    - key: partners.google_chrome.description
+    - key: sponsors.google_chrome.description
       t: با تشکر از تیم Google Chrome برای حمایت از کار ما.
 
 ###########################################################################
