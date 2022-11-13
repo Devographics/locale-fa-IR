@@ -57,10 +57,10 @@ translations:
     - key: general.preview_survey
       t: پیش‌نمایش نظرسنجی »
     - key: general.finish_survey
-      t: اتمام نظرسنجی »
+      t: اتمام نظرسنجی
     - key: general.next_section
       t: بخش بعدی
-    - key: general.prev_section
+    - key: general.previous_section
       t: بخش قبلی
     - key: general.survey_closed
       t: این نظرسنجی بسته شده است.
