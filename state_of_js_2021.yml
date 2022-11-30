@@ -4,7 +4,7 @@ translations:
     # Introduction
     ###########################################################################
 
-    - key: sections.introduction.description
+    - key: introduction.js2021
       t: |
 
             <span class="first-letter"></span> در سال 2021 اتفاقات زیادی رخ داد. در واقع آنقدر این اتفاقات زیاد بود که این نظرسنجی تا سال 2022 به تعویق افتاد!

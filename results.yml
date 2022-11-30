@@ -335,7 +335,7 @@ translations:
       t: Sorry, CSV export is not available for this dataset.
     - key: export.graphql
       t: >
-          You can copy paste this query into our <a target="_blank" rel="nofollow" href="http://graphiql.stateofjs.com/">public GraphQL API</a>.
+          You can copy paste this query into our <a target="_blank" rel="nofollow" href="https://graphiql.devographics.com/">public GraphQL API</a>.
 
     # Tools usage variations
     - key: blocks.tools_usage_variations
