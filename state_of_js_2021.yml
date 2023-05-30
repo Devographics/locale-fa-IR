@@ -1,370 +1,369 @@
 locale: fa-IR
 translations:
-    ###########################################################################
-    # Introduction
-    ###########################################################################
+  ###########################################################################
+  # Introduction
+  ###########################################################################
 
-    - key: introduction.js2021
-      t: |
+  - key: introduction.js2021
+    t: |
 
-            <span class="first-letter"></span> در سال 2021 اتفاقات زیادی رخ داد. در واقع آنقدر این اتفاقات زیاد بود که این نظرسنجی تا سال 2022 به تعویق افتاد!
-            بین مجموعه‌ای از ابزارهای سریع‌تر و یک محصول جدید از فریم ورک های بک‌اند، دنیای جاوااسکریپت به تکامل ادامه داد. همچنین ما تمام تلاش خود را برای ادامه دادن انجام دادیم و به این نظرسنجی چند ویژگی پر قدرت اضافه کرده‌ایم. ([درباره ویژگی های جدید بیشتر بدانید](https://dev.to/sachagreif/whats-new-in-the-2021-state-of-javascript-survey-4eej)) مانند انواع سؤالات جدید، امکان ارجاع متقابل به دو نقطه (حقوق سالانه بر اساس سطح تجربه)، و حتی راهی برای سفارشی کردن نمودارها برای شما!
-            با این حال، همه چیز آرام و روان نبود. ما مجبور شدیم با یک [نشت داده] (https://dev.to/sachagreif/disclosing-a-state-of-javascriptstate-of-css-data-breach-2lg1) که خوشبختانه عواقب بدی نداشت، برخورد کنیم. و ما دائماً تلاش می کنیم تا نظرسنجی را فراگیرتر، در دسترس تر و منصفانه تر کنیم.
-            با این وجود، این نظرسنجی می تواند تنها بخش کوچک و کوچکی از اکوسیستم جاوااسکریپت را نشان دهد، امیدواریم که داده های حاصل برای شما جالب باشد!
+      <span class="first-letter"></span> در سال 2021 اتفاقات زیادی رخ داد. در واقع آنقدر این اتفاقات زیاد بود که این نظرسنجی تا سال 2022 به تعویق افتاد!
+      بین مجموعه‌ای از ابزارهای سریع‌تر و یک محصول جدید از فریم ورک های بک‌اند، دنیای جاوااسکریپت به تکامل ادامه داد. همچنین ما تمام تلاش خود را برای ادامه دادن انجام دادیم و به این نظرسنجی چند ویژگی پر قدرت اضافه کرده‌ایم. ([درباره ویژگی های جدید بیشتر بدانید](https://dev.to/sachagreif/whats-new-in-the-2021-state-of-javascript-survey-4eej)) مانند انواع سؤالات جدید، امکان ارجاع متقابل به دو نقطه (حقوق سالانه بر اساس سطح تجربه)، و حتی راهی برای سفارشی کردن نمودارها برای شما!
+      با این حال، همه چیز آرام و روان نبود. ما مجبور شدیم با یک [نشت داده] (https://dev.to/sachagreif/disclosing-a-state-of-javascriptstate-of-css-data-breach-2lg1) که خوشبختانه عواقب بدی نداشت، برخورد کنیم. و ما دائماً تلاش می کنیم تا نظرسنجی را فراگیرتر، در دسترس تر و منصفانه تر کنیم.
+      با این وجود، این نظرسنجی می تواند تنها بخش کوچک و کوچکی از اکوسیستم جاوااسکریپت را نشان دهد، امیدواریم که داده های حاصل برای شما جالب باشد!
 
-            <span class="conclusion__byline">– Sacha Greif</span>
+      <span class="conclusion__byline">– Sacha Greif</span>
 
-    ###########################################################################
-    # Tshirt
-    ###########################################################################
+  ###########################################################################
+  # Tshirt
+  ###########################################################################
 
-    - key: sections.tshirt.title
-      t: T-shirt
+  - key: sections.tshirt.title
+    t: T-shirt
 
-    - key: sections.tshirt.description
-      t: |
-          ## با تی شرت state of css از نظرسنجی حمایت کنید.
-          بین کیفیت بد ویدیو، کاست های حجیم و نیاز به عقب بردن، چیز زیادی در مورد دوران VHS(سیستم ویدئوی خانگی) وجود ندارد که از دست بدهید. اما چیزی که ما از دست می‌دهیم، تصاویر شگفت‌انگیز دهه 90 است که نوارهای VHS خالی را تزئین می‌کردند.
-          اما اکنون، به لطف کریستوفر کرک نیلسن با استعداد، می‌توانید از این همه شور و شعف لذت ببرید و در عین حال عشق خود را به CSS نیز جشن بگیرید!
+  - key: sections.tshirt.description
+    t: |
+      ## با تی شرت state of css از نظرسنجی حمایت کنید.
+      بین کیفیت بد ویدیو، کاست های حجیم و نیاز به عقب بردن، چیز زیادی در مورد دوران VHS(سیستم ویدئوی خانگی) وجود ندارد که از دست بدهید. اما چیزی که ما از دست می‌دهیم، تصاویر شگفت‌انگیز دهه 90 است که نوارهای VHS خالی را تزئین می‌کردند.
+      اما اکنون، به لطف کریستوفر کرک نیلسن با استعداد، می‌توانید از این همه شور و شعف لذت ببرید و در عین حال عشق خود را به CSS نیز جشن بگیرید!
 
-    - key: tshirt.about
-      t: در مورد تی شرت
+  - key: tshirt.about
+    t: در مورد تی شرت
 
-    - key: tshirt.description
-      t: |
-          ما از یک پیراهن سه ترکیبی با کیفیت بالا و فوق العاده نرم و باریک استفاده می کنیم که توسط شرکای ما در Cotton Bureau چاپ شده است.
+  - key: tshirt.description
+    t: |
+      ما از یک پیراهن سه ترکیبی با کیفیت بالا و فوق العاده نرم و باریک استفاده می کنیم که توسط شرکای ما در Cotton Bureau چاپ شده است.
 
-    - key: tshirt.getit
-      t: دریافت کنید
+  - key: tshirt.getit
+    t: دریافت کنید
 
-    - key: tshirt.price
-      t: 29 دلار آمریکا + حمل و نقل
+  - key: tshirt.price
+    t: 29 دلار آمریکا + حمل و نقل
 
-    - key: tshirt.designer.heading
-      t: در مورد طراح
+  - key: tshirt.designer.heading
+    t: در مورد طراح
 
-    - key: tshirt.designer.name
-      t: Christopher Kirk-Nielsen
+  - key: tshirt.designer.name
+    t: Christopher Kirk-Nielsen
 
-    - key: tshirt.designer.bio
-      t: |
-          کریس اصالتاً اهل فرانسه است، اما اکنون در ایالات متحده ساکن است، نه تنها یک توسعه‌دهنده شگفت‌انگیز است، بلکه یک تصویرگر با استعداد است که در جلوه‌های بصری تخصص دارد. در واقع، ما شما را تشویق می کنیم که [سایر طرح های تی شرت] (https://chriskirknielsen.com/designs) را نیز بررسی کنید!
+  - key: tshirt.designer.bio
+    t: |
+      کریس اصالتاً اهل فرانسه است، اما اکنون در ایالات متحده ساکن است، نه تنها یک توسعه‌دهنده شگفت‌انگیز است، بلکه یک تصویرگر با استعداد است که در جلوه‌های بصری تخصص دارد. در واقع، ما شما را تشویق می کنیم که [سایر طرح های تی شرت] (https://chriskirknielsen.com/designs) را نیز بررسی کنید!
 
-    ###########################################################################
-    # Sections
-    ###########################################################################
+  ###########################################################################
+  # Sections
+  ###########################################################################
 
-    - key: sections.user_info.description
-      t: |
-          امسال **16085** پاسخگو در این نظرسنجی شرکت کردند. به منظور کمک به برجسته کردن صداهای مختلف و ارائه بینش های عمیق تر، ما تلاش ویژه ای برای ارائه راه های جدید برای تجزیه داده های خود انجام دادیم.
+  - key: sections.user_info.description
+    t: |
+      امسال **16085** پاسخگو در این نظرسنجی شرکت کردند. به منظور کمک به برجسته کردن صداهای مختلف و ارائه بینش های عمیق تر، ما تلاش ویژه ای برای ارائه راه های جدید برای تجزیه داده های خود انجام دادیم.
 
-    - key: sections.features.description
-      t: |
-         جاوااسکریپت ممکن است سریع پیشرفت کند، اما به نظر می رسد که توسعه دهندگان جاوااسکریپت حتی سریعتر پیشرفت می کنند، زیرا بسیاری از ویژگی های نسبتاً جدید در حال حاضر سطوح بالای پذیرش را نشان می دهند.
+  - key: sections.features.description
+    t: |
+      جاوااسکریپت ممکن است سریع پیشرفت کند، اما به نظر می رسد که توسعه دهندگان جاوااسکریپت حتی سریعتر پیشرفت می کنند، زیرا بسیاری از ویژگی های نسبتاً جدید در حال حاضر سطوح بالای پذیرش را نشان می دهند.
 
-    - key: sections.technologies.description
-      t: |
-          نتایج امسال به درجه بالایی از پراکندگی در دنیای جاوااسکریپت اشاره دارد. امااین موضوع گاهی اوقات خوب به نظر نمی رسد، تمام این رقابت‌ها باعث ایجاد یک اکوسیستم بسیار پویا می‌شود.
+  - key: sections.technologies.description
+    t: |
+      نتایج امسال به درجه بالایی از پراکندگی در دنیای جاوااسکریپت اشاره دارد. امااین موضوع گاهی اوقات خوب به نظر نمی رسد، تمام این رقابت‌ها باعث ایجاد یک اکوسیستم بسیار پویا می‌شود.
 
-    - key: sections.tools_others.description
-      t: |
-          انتخاب یک تکنولوژِی اغلب می‌تواند به مجموعه‌ای از انتخاب‌های سخت بین اولویت‌های رقیب منجر شود، و امسال ما سعی کردیم این فرآیند را با استفاده از یک قالب سؤال جدید به سبک براکت به تصویر بکشیم.
+  - key: sections.tools_others.description
+    t: |
+      انتخاب یک تکنولوژِی اغلب می‌تواند به مجموعه‌ای از انتخاب‌های سخت بین اولویت‌های رقیب منجر شود، و امسال ما سعی کردیم این فرآیند را با استفاده از یک قالب سؤال جدید به سبک براکت به تصویر بکشیم.
 
-    - key: sections.environments.description
-      t: |
-          دسترسی به توسعه وب مدت هاست که مورد توجه قرار گرفته است، اما بسیاری از توسعه دهندگان اکنون متوجه شده اند که در واقع باید محیطی باشد که همه چیز بر آن استوار باشد.
+  - key: sections.environments.description
+    t: |
+      دسترسی به توسعه وب مدت هاست که مورد توجه قرار گرفته است، اما بسیاری از توسعه دهندگان اکنون متوجه شده اند که در واقع باید محیطی باشد که همه چیز بر آن استوار باشد.
 
-    - key: sections.resources.description
-      t: |
-          وبلاگ های برجسته، پادکست ها و سایت ها شروع خوبی بود، اما امسال تصمیم گرفتیم یک قدم جلوتر برویم و در واقع افرادی را که جامعه جاوااسکریپت را تشکیل می دهند، معرفی کنیم!
+  - key: sections.resources.description
+    t: |
+      وبلاگ های برجسته، پادکست ها و سایت ها شروع خوبی بود، اما امسال تصمیم گرفتیم یک قدم جلوتر برویم و در واقع افرادی را که جامعه جاوااسکریپت را تشکیل می دهند، معرفی کنیم!
 
-    - key: sections.opinions.description
-      t: |
-          چه نقاط دردناکی وجود دارد که امروز شما را عقب نگه می‌دارد، چه ویژگی‌های از دست رفته‌ای که امیدوارید فردا از آن‌ها استفاده کنید، این فرصت شما بود تا مشکلات خود را با جاوااسکریپت به اشتراک بگذارید!
+  - key: sections.opinions.description
+    t: |
+      چه نقاط دردناکی وجود دارد که امروز شما را عقب نگه می‌دارد، چه ویژگی‌های از دست رفته‌ای که امیدوارید فردا از آن‌ها استفاده کنید، این فرصت شما بود تا مشکلات خود را با جاوااسکریپت به اشتراک بگذارید!
+
+  ###########################################################################
+  # Charts
+  ###########################################################################
+
+  - key: options.features_categories.language
+    aliasFor: sections.language.title
+  - key: options.features_categories.browser_apis
+    aliasFor: sections.browser_apis.title
+  - key: options.features_categories.other_features
+    aliasFor: sections.other_features.title
+
+  ###########################################################################
+  # Notes
+  ###########################################################################
+
+  - key: blocks.gender.note
+    t: |
+      اگر مایلید بیشتر بدانید، ما [یک پست وبلاگ نوشتیم] (https://dev.to/sachagreif/is-our-survey-biased-against-women-49oj) که به پویایی جنسیتی این نظرسنجی می پردازد.
+
+  - key: blocks.css_missing_features.note
+    t: |
+      می‌توانید مجموعه اطلاعات کامل پاسخ‌های این سؤال را در [این پروژه جانبی] (https://whatsmissingfromcss.com/) بررسی کنید.
+
+  - key: blocks.source.note
+    t: >
+
+      این نمودار ترکیبی از ارجاع‌دهنده‌ها، پارامترهای URL و پاسخ‌های آزاد را جمع‌آوری می‌کند.
+
+      - State of JS: فهرست پستی [State of JS](https://stateofjs.com).
+
+      - State of CSS: فهرست پستی State of css؛ با کلمات `email`, `by email` و غیره منطبق است.
+
+      - Work: کلمات منطبق `work`, `colleagues`, `coworkers` و غیره ...
+
+  ###########################################################################
+  # Awards
+  ###########################################################################
+
+  - key: award.feature_adoption_delta_award.comment
+    t: با پیشرفت **{value}** در سال 2021، توابع مقایسه CSS به بخشی کلیدی از جعبه ابزار هر توسعه دهنده CSS تبدیل شده است.
+
+  # - key: award.tool_usage_delta_award.comment
+  #   t: No other tool comes even close to Tailwind CSS's dramatic **{value}** progression over the last year.
+
+  - key: award.tool_satisfaction_award.comment
+    t: PostCSS بار دیگر با نسبت رضایت **{value}** در جایگاه اول قرار می گیرد.
+
+  - key: award.tool_interest_award.comment
+    t: با نسبت **{value}**، ماژول های CSS دوباره بیشترین علاقه را در بین توسعه دهندگان CSS در سال جاری ایجاد کرد.
+
+  # - key: award.most_write_ins_award.comment
+  #   t: Many questions also accepted write-in answers, and with **{value}** mentions PhpStorm was the most popular item overall.
+
+  ###########################################################################
+  # Conclusion
+  ###########################################################################
+
+  - key: conclusion.js2021
+    t: |
+      <span class="first-line">نحوه نوشتن CSS برای همیشه تغییر خواهد کرد</span>
+      طی سال‌های زیادی، نوآوری‌های بسیاری در استایل نوشتاری برای وب در جاهای دیگر اتفاق افتاده است: در پیش پردازنده‌ها، فریم ورک های جاوااسکریپت یا کامپایلرها. مطمئناً خود CSS نیز بهبودهایی مانند [aspect-ratio](https://developer.mozilla.org/en-US/docs/Web/CSS/aspect-ratio) یا [ویژگی های سفارشی](https://developer.mozilla.org/en-US/docs/Web/CSS/--*). با این حال، ما هنوز هم به طور روزانه به کتابخانه ها و سایر کمک ها می پردازیم.
+      اما تغییری در راه است زبان اصلی CSS در حال تکان خوردن و تجدید است و ما درست در خط مقدم تکامل هستیم.
+      [Container Queries](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Container_Queries) عصر کاملاً جدیدی از طراحی پاسخگو(رسپانسیو) را به ارمغان خواهد آورد. و [Cascade Layers] (https://developer.mozilla.org/en-US/docs/Web/CSS/@layer) استفاده ما از فریم ورک ها، قالب‌بندی و مدیریت پایگاه‌های کد پیچیده را بسیار آسان‌تر می‌کند.
+      وقتی به جلوتر نگاه می‌کنیم، می‌توانیم [@when/else](https://css-tricks.com/proposal-for-css-when/) را نیز ببینیم که در حال آمدن است، که به ما اجازه می‌دهد media را ترکیب کنیم، کانتینر ها و کوئری ها را در یک قانون واحد پشتیبانی می کند.
+      با گذشت زمان، سال 2022 سالی است که در نهایت شاهد حرکتی در CSS هستیم و آن قابلیت تودرتو یا nesting است. توسعه دهندگانی که با ابزارهایی مانند Sass و PostCSS کار می‌کنند، تصور نمی کردند که بتوانند بدون استفاده از آنها این قابلیت را داشته باشند.
+      همه این موضوعات به این معنی است که سال 2022 احتمالاً سالی است که در آن نحوه نوشتن CSS به طور اساسی تغییر خواهد کرد. این یک دوره فوق‌العاده هیجان‌انگیز است، و ما مشتاقانه منتظرپیاده‌سازی‌های شگفت‌انگیز در سال آینده هستیم.
+
+  - key: conclusion.js2021.bio
+    t: توسعه دهنده وب و خالق Polypane
+
+  ###########################################################################
+  # Picks
+  ###########################################################################
+
+  - key: picks.my_pick
+    t: "انتخاب من در سال 2021: "
+  - key: picks.intro
+    t: ما از اعضای جامعه CSS خواستیم تا «انتخاب سال» خود را به اشتراک بگذارند.
+
+  - key: picks.lee_robinson.name
+    t: SvelteKit
+  - key: picks.lee_robinson.bio
+    t: مدیر روابط توسعه دهندگان Vercel
+  - key: picks.lee_robinson.description
+    t: |
+      SvelteKit برداشت جدیدی در زمینه وب است و دارای یک جامعه فوق العاده پرشور و در حال رشد است.
+
+  - key: picks.vadim_makeev.name
+    t: رندر سمت سرور
+  - key: picks.vadim_makeev.bio
+    t: DevRel, Podcaster & Web Standards Advocate
+  - key: picks.vadim_makeev.description
+    t: |
+      زمان آن رسیده است که اولویت هایمان را مشخص کنیم. UX > DX، و همیشه همینطور بوده است. عملکرد FTW!
+
+  - key: picks.ben_ilegbodu.name
+    t: لی رابینسون
+  - key: picks.ben_ilegbodu.bio
+    t: بن ایلگبودو، مهندس اصلی فرانت اند در Stitch Fix
+  - key: picks.ben_ilegbodu.description
+    t: |
+      لی در حمایت از Next.js فوق العاده بوده است. او در Next به من کمک زیادی کرد و همچنان به ایجاد هیجان برای جایی که می رود ادامه می دهد.
+
+  - key: picks.shawn_wang.name
+    t: Supabase
+  - key: picks.shawn_wang.bio
+    t: رئیس DX در Temporal
+  - key: picks.shawn_wang.description
+    t: |
+      Supabase Postgres برای توسعه دهندگان بیشتری در دسترس قرار می گیرد و به همه نشان می دهد که چگونه یک تیم کوچک متمرکز می تواند 10 برابر اندازه آنها از همتایان خود عبور کند.
+
+  - key: picks.sarah_drasner.name
+    t: Pawel Kozlowski
+  - key: picks.sarah_drasner.bio
+    t:
+  - key: picks.sarah_drasner.description
+    t: |
+      پاول کوزلوفسکی از آن دسته از توسعه دهندگانی است که می تواند با تواضع و کنجکاوی به رویکردهای مختلف و با علاقه به بهبود کارها نگاهی باز داشته باشد.
+
+  - key: picks.sara_vieira.name
+    t: Paul Henschel
+  - key: picks.sara_vieira.bio
+    t: نماینده بین المللی JS Bullshit
+  - key: picks.sara_vieira.description
+    t: |
+      کار پل روی انیمیشن‌ها و React Three Fiber انجام هر نوع کار سه بعدی را در وب آسان‌تر کرده است.
+
+  - key: picks.mark_erikson.name
+    t: Ryan Carniato
+  - key: picks.mark_erikson.bio
+    t: Redux Maintainer
+  - key: picks.mark_erikson.description
+    t: |
+      فریمورک واکنش پذیر SolidJS به ورژن 1.0 رسید و مقالات متعددی را در تحلیل مفاهیم پیاده سازی فریم ورک JS پیشرفته نوشت.
+
+  - key: picks.miguel_angel_duran.name
+    t: Vite
+  - key: picks.miguel_angel_duran.bio
+    t: Front End Dev & Twitch Coding Streamer
+  - key: picks.miguel_angel_duran.description
+    t: |
+      علاوه بر esbuild و swc، ابزارهای خارق‌العاده‌ای که اکوسیستم را به جلو می‌برند، من از Vite لذت می‌برم. این DX لذت بخش است و دارای ویژگی های غنی است.
+
+  - key: picks.alyssa_nicoll.name
+    t: BroccoDev's Twitch Stream
+  - key: picks.alyssa_nicoll.bio
+    t: Sr. Developer Advocate at Progress
+  - key: picks.alyssa_nicoll.description
+    t: |
+      مایک بروچی اخیراً شروع به پخش در Twitch کرده است. او یک برنامه نویس، توسعه دهنده و مهمتر از همه معلم است. من همیشه از تماشای او و یادگیری از او خوشحال می شوم.
+
+  - key: picks.michael_jackson.name
+    t: esbuild
+  - key: picks.michael_jackson.bio
+    t: Co-founder of Remix
+  - key: picks.michael_jackson.description
+    t: |
+      ما در حال ساخت کامپایلر Remix در بالای esbuild بوده‌ایم و قطعاً تا آنجایی که به باندلرهای JS مربوط می‌شود، سطح آن را بالا برده است. فوق العاده سریع است و API پلاگین به ما امکان می دهد تقریباً هر کاری را که می خواهیم انجام دهیم.
+
+  - key: picks.david_khourshid.name
+    t: Remix
+  - key: picks.david_khourshid.bio
+    t: Pianist and founder of Stately
+  - key: picks.david_khourshid.description
+    t: |
+      Remix یک فریم ورک فول استکس برای وب است که احساس می شود قدیمی است، اما به روشی خوب، با قرار دادن شما در مسیر ایجاد برنامه های وب مدرن سریع، پیچیده و در دسترس است.
+
+  - key: picks.kent_c_dodds.name
+    t: Fly.io
+  - key: picks.kent_c_dodds.bio
+    t: Director of Developer Experience, Remix
+  - key: picks.kent_c_dodds.description
+    t: |
+      Fly به من این امکان را داد که با خیال راحت یک برنامه در سطح تولید در جهان واقعی، توزیع شده در سطح جهانی را اجرا کنم.
 
-    ###########################################################################
-    # Charts
-    ###########################################################################
-
-    - key: options.features_categories.language
-      aliasFor: sections.language.title
-    - key: options.features_categories.browser_apis
-      aliasFor: sections.browser_apis.title
-    - key: options.features_categories.other_features
-      aliasFor: sections.other_features.title
-
-    ###########################################################################
-    # Notes
-    ###########################################################################
-
-    - key: blocks.gender.note
-      t: |
-          اگر مایلید بیشتر بدانید، ما [یک پست وبلاگ نوشتیم] (https://dev.to/sachagreif/is-our-survey-biased-against-women-49oj) که به پویایی جنسیتی این نظرسنجی می پردازد.
-
-    - key: blocks.currently_missing_from_css.note
-      t: |
-          می‌توانید مجموعه اطلاعات کامل پاسخ‌های این سؤال را در [این پروژه جانبی] (https://whatsmissingfromcss.com/) بررسی کنید.
-
-    - key: blocks.source.note
-      t: >
-
-        این نمودار ترکیبی از ارجاع‌دهنده‌ها، پارامترهای URL و پاسخ‌های آزاد را جمع‌آوری می‌کند.
-
-        - State of JS: فهرست پستی [State of JS](https://stateofjs.com).
-
-        - State of CSS: فهرست پستی State of css؛ با کلمات `email`, `by email` و غیره منطبق است.
-
-        - Work: کلمات منطبق `work`, `colleagues`, `coworkers` و غیره ...
-
-    ###########################################################################
-    # Awards
-    ###########################################################################
-
-    - key: award.feature_adoption_delta_award.comment
-      t: با پیشرفت **{value}** در سال 2021، توابع مقایسه CSS به بخشی کلیدی از جعبه ابزار هر توسعه دهنده CSS تبدیل شده است.
-
-    # - key: award.tool_usage_delta_award.comment
-    #   t: No other tool comes even close to Tailwind CSS's dramatic **{value}** progression over the last year.
-
-    - key: award.tool_satisfaction_award.comment
-      t: PostCSS بار دیگر با نسبت رضایت **{value}** در جایگاه اول قرار می گیرد.
-
-    - key: award.tool_interest_award.comment
-      t: با نسبت **{value}**، ماژول های CSS دوباره بیشترین علاقه را در بین توسعه دهندگان CSS در سال جاری ایجاد کرد.
-
-    # - key: award.most_write_ins_award.comment
-    #   t: Many questions also accepted write-in answers, and with **{value}** mentions PhpStorm was the most popular item overall.
-
-
-    ###########################################################################
-    # Conclusion
-    ###########################################################################
-
-    - key: conclusion.js2021
-      t: |
-            <span class="first-line">نحوه نوشتن CSS برای همیشه تغییر خواهد کرد</span>
-            طی سال‌های زیادی، نوآوری‌های بسیاری در استایل نوشتاری برای وب در جاهای دیگر اتفاق افتاده است: در پیش پردازنده‌ها، فریم ورک های جاوااسکریپت یا کامپایلرها. مطمئناً خود CSS نیز بهبودهایی مانند [aspect-ratio](https://developer.mozilla.org/en-US/docs/Web/CSS/aspect-ratio) یا [ویژگی های سفارشی](https://developer.mozilla.org/en-US/docs/Web/CSS/--*). با این حال، ما هنوز هم به طور روزانه به کتابخانه ها و سایر کمک ها می پردازیم.
-            اما تغییری در راه است زبان اصلی CSS در حال تکان خوردن و تجدید است و ما درست در خط مقدم تکامل هستیم.
-            [Container Queries](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Container_Queries) عصر کاملاً جدیدی از طراحی پاسخگو(رسپانسیو) را به ارمغان خواهد آورد. و [Cascade Layers] (https://developer.mozilla.org/en-US/docs/Web/CSS/@layer) استفاده ما از فریم ورک ها، قالب‌بندی و مدیریت پایگاه‌های کد پیچیده را بسیار آسان‌تر می‌کند.
-            وقتی به جلوتر نگاه می‌کنیم، می‌توانیم [@when/else](https://css-tricks.com/proposal-for-css-when/) را نیز ببینیم که در حال آمدن است، که به ما اجازه می‌دهد media را ترکیب کنیم، کانتینر ها و کوئری ها را در یک قانون واحد پشتیبانی می کند.
-            با گذشت زمان، سال 2022 سالی است که در نهایت شاهد حرکتی در CSS هستیم و آن قابلیت تودرتو یا nesting است. توسعه دهندگانی که با ابزارهایی مانند Sass و PostCSS کار می‌کنند، تصور نمی کردند که بتوانند بدون استفاده از آنها این قابلیت را داشته باشند.
-            همه این موضوعات به این معنی است که سال 2022 احتمالاً سالی است که در آن نحوه نوشتن CSS به طور اساسی تغییر خواهد کرد. این یک دوره فوق‌العاده هیجان‌انگیز است، و ما مشتاقانه منتظرپیاده‌سازی‌های شگفت‌انگیز در سال آینده هستیم.
-
-    - key: conclusion.js2021.bio
-      t: توسعه دهنده وب و خالق Polypane
-
-    ###########################################################################
-    # Picks
-    ###########################################################################
-
-    - key: picks.my_pick
-      t: 'انتخاب من در سال 2021: '
-    - key: picks.intro
-      t: ما از اعضای جامعه CSS خواستیم تا «انتخاب سال» خود را به اشتراک بگذارند.
-
-    - key: picks.lee_robinson.name
-      t: SvelteKit
-    - key: picks.lee_robinson.bio
-      t: مدیر روابط توسعه دهندگان Vercel
-    - key: picks.lee_robinson.description
-      t: |
-          SvelteKit برداشت جدیدی در زمینه وب است و دارای یک جامعه فوق العاده پرشور و در حال رشد است.
-
-    - key: picks.vadim_makeev.name
-      t: رندر سمت سرور
-    - key: picks.vadim_makeev.bio
-      t: DevRel, Podcaster & Web Standards Advocate
-    - key: picks.vadim_makeev.description
-      t: |
-          زمان آن رسیده است که اولویت هایمان را مشخص کنیم. UX > DX، و همیشه همینطور بوده است. عملکرد FTW!
-
-    - key: picks.ben_ilegbodu.name
-      t: لی رابینسون
-    - key: picks.ben_ilegbodu.bio
-      t: بن ایلگبودو، مهندس اصلی فرانت اند در Stitch Fix
-    - key: picks.ben_ilegbodu.description
-      t: |
-          لی در حمایت از Next.js فوق العاده بوده است. او در Next به من کمک زیادی کرد و همچنان به ایجاد هیجان برای جایی که می رود ادامه می دهد.
-
-    - key: picks.shawn_wang.name
-      t: Supabase
-    - key: picks.shawn_wang.bio
-      t: رئیس DX در Temporal
-    - key: picks.shawn_wang.description
-      t: |
-          Supabase Postgres برای توسعه دهندگان بیشتری در دسترس قرار می گیرد و به همه نشان می دهد که چگونه یک تیم کوچک متمرکز می تواند 10 برابر اندازه آنها از همتایان خود عبور کند.
-
-    - key: picks.sarah_drasner.name
-      t: Pawel Kozlowski
-    - key: picks.sarah_drasner.bio
-      t:
-    - key: picks.sarah_drasner.description
-      t: |
-            پاول کوزلوفسکی از آن دسته از توسعه دهندگانی است که می تواند با تواضع و کنجکاوی به رویکردهای مختلف و با علاقه به بهبود کارها نگاهی باز داشته باشد.
-
-    - key: picks.sara_vieira.name
-      t: Paul Henschel
-    - key: picks.sara_vieira.bio
-      t: نماینده بین المللی JS Bullshit
-    - key: picks.sara_vieira.description
-      t: |
-          کار پل روی انیمیشن‌ها و React Three Fiber انجام هر نوع کار سه بعدی را در وب آسان‌تر کرده است.
-
-    - key: picks.mark_erikson.name
-      t: Ryan Carniato
-    - key: picks.mark_erikson.bio
-      t: Redux Maintainer
-    - key: picks.mark_erikson.description
-      t: |
-          فریمورک واکنش پذیر SolidJS به ورژن 1.0 رسید و مقالات متعددی را در تحلیل مفاهیم پیاده سازی فریم ورک JS پیشرفته نوشت.
-
-    - key: picks.miguel_angel_duran.name
-      t: Vite
-    - key: picks.miguel_angel_duran.bio
-      t: Front End Dev & Twitch Coding Streamer
-    - key: picks.miguel_angel_duran.description
-      t: |
-          علاوه بر esbuild و swc، ابزارهای خارق‌العاده‌ای که اکوسیستم را به جلو می‌برند، من از Vite لذت می‌برم. این DX لذت بخش است و دارای ویژگی های غنی است.
-
-    - key: picks.alyssa_nicoll.name
-      t: BroccoDev's Twitch Stream
-    - key: picks.alyssa_nicoll.bio
-      t: Sr. Developer Advocate at Progress
-    - key: picks.alyssa_nicoll.description
-      t: |
-        مایک بروچی اخیراً شروع به پخش در Twitch کرده است. او یک برنامه نویس، توسعه دهنده و مهمتر از همه معلم است. من همیشه از تماشای او و یادگیری از او خوشحال می شوم.
-
-    - key: picks.michael_jackson.name
-      t: esbuild
-    - key: picks.michael_jackson.bio
-      t: Co-founder of Remix
-    - key: picks.michael_jackson.description
-      t: |
-        ما در حال ساخت کامپایلر Remix در بالای esbuild بوده‌ایم و قطعاً تا آنجایی که به باندلرهای JS مربوط می‌شود، سطح آن را بالا برده است. فوق العاده سریع است و API پلاگین به ما امکان می دهد تقریباً هر کاری را که می خواهیم انجام دهیم.
-
-    - key: picks.david_khourshid.name
-      t: Remix
-    - key: picks.david_khourshid.bio
-      t: Pianist and founder of Stately
-    - key: picks.david_khourshid.description
-      t: |
-          Remix یک فریم ورک فول استکس برای وب است که احساس می شود قدیمی است، اما به روشی خوب، با قرار دادن شما در مسیر ایجاد برنامه های وب مدرن سریع، پیچیده و در دسترس است.
-
-    - key: picks.kent_c_dodds.name
-      t: Fly.io
-    - key: picks.kent_c_dodds.bio
-      t: Director of Developer Experience, Remix
-    - key: picks.kent_c_dodds.description
-      t: |
-          Fly به من این امکان را داد که با خیال راحت یک برنامه در سطح تولید در جهان واقعی، توزیع شده در سطح جهانی را اجرا کنم.
+  - key: picks.tejas_kumar.name
+    t: Joe Haddad
+  - key: picks.tejas_kumar.bio
+    t: Web Developer, Conference Speaker, and Director of DevRel at Xata
+  - key: picks.tejas_kumar.description
+    t: |
+      جو روی Next.js در Vercel کار می کند و دائماً به دنبال نشان دادن قدرت خود با افتخار است در حالی که فعالانه به بازخوردهای جامعه گوش می دهد تا از آنها حمایت بهتری کند.
 
-    - key: picks.tejas_kumar.name
-      t: Joe Haddad
-    - key: picks.tejas_kumar.bio
-      t: Web Developer, Conference Speaker, and Director of DevRel at Xata
-    - key: picks.tejas_kumar.description
-      t: |
-          جو روی Next.js در Vercel کار می کند و دائماً به دنبال نشان دادن قدرت خود با افتخار است در حالی که فعالانه به بازخوردهای جامعه گوش می دهد تا از آنها حمایت بهتری کند.
+  - key: picks.xxxx.name
+    t:
+  - key: picks.xxxx.bio
+    t:
+  - key: picks.xxxx.description
+    t: |
 
-    - key: picks.xxxx.name
-      t:
-    - key: picks.xxxx.bio
-      t:
-    - key: picks.xxxx.description
-      t: |
+  - key: picks.xxxx.name
+    t:
+  - key: picks.xxxx.bio
+    t:
+  - key: picks.xxxx.description
+    t: |
 
-    - key: picks.xxxx.name
-      t:
-    - key: picks.xxxx.bio
-      t:
-    - key: picks.xxxx.description
-      t: |
+  - key: picks.xxxx.name
+    t:
+  - key: picks.xxxx.bio
+    t:
+  - key: picks.xxxx.description
+    t: |
+  ###########################################################################
+  # Sponsors
+  ###########################################################################
 
-    - key: picks.xxxx.name
-      t:
-    - key: picks.xxxx.bio
-      t:
-    - key: picks.xxxx.description
-      t: |
-###########################################################################
-# Sponsors
-###########################################################################
+  - key: sponsors.frontendmasters.description
+    t: مهارت های خود را با دوره های مهندسی پیشرفته و عمیق ارتقا دهید.
+  - key: sponsors.polypane.description
+    t: مرورگر برای برنامه نویسان بلندپرواز. وب‌سایت‌های واکنش‌گرا، در دسترس و سریع را به آسانی بسازید.
+  - key: sponsors.google_chrome.description
+    t: با تشکر از تیم Google Chrome برای حمایت از کار ما.
 
-    - key: sponsors.frontendmasters.description
-      t: مهارت های خود را با دوره های مهندسی پیشرفته و عمیق ارتقا دهید.
-    - key: sponsors.polypane.description
-      t: مرورگر برای برنامه نویسان بلندپرواز. وب‌سایت‌های واکنش‌گرا، در دسترس و سریع را به آسانی بسازید.
-    - key: sponsors.google_chrome.description
-      t: با تشکر از تیم Google Chrome برای حمایت از کار ما.
+  ###########################################################################
+  # FAQ/About
+  ###########################################################################
 
-###########################################################################
-# FAQ/About
-###########################################################################
+  - key: about.content
+    t: >
+      نظرسنجی 2021 State of CSS از 5 اکتبر تا 2 نوامبر 2021 انجام شد و در مجموع 8714 پاسخ جمع آوری شد. این نظرسنجی توسط من، [Sacha Greif] (https://sachagreif.com/)، با کمک تیمی از مشارکت کنندگان اپن سورس اجرا می شود.
 
-    - key: about.content
-      t: >
-            نظرسنجی 2021 State of CSS از 5 اکتبر تا 2 نوامبر 2021 انجام شد و در مجموع 8714 پاسخ جمع آوری شد. این نظرسنجی توسط من، [Sacha Greif] (https://sachagreif.com/)، با کمک تیمی از مشارکت کنندگان اپن سورس اجرا می شود.
 
+      لوگو و تی شرت امسال توسط [کریستوفر کرک نیلسن] (http://chriskirknielsen.com/) طراحی و متحرک شده است.
 
-            لوگو و تی شرت امسال توسط [کریستوفر کرک نیلسن] (http://chriskirknielsen.com/) طراحی و متحرک شده است.
+      ### اهداف نظرسنجی
 
-            ### اهداف نظرسنجی
+      این نظرسنجی، همراه با نظرسنجی [State of JavaScript] (https://stateofjs.com/)، برای شناسایی روندهای آتی در اکوسیستم توسعه وب به منظور کمک به توسعه دهندگان در انتخاب های تکنولوژیکی ایجاد شده است.
 
-            این نظرسنجی، همراه با نظرسنجی [State of JavaScript] (https://stateofjs.com/)، برای شناسایی روندهای آتی در اکوسیستم توسعه وب به منظور کمک به توسعه دهندگان در انتخاب های تکنولوژیکی ایجاد شده است.
 
+      به این ترتیب، این نظرسنجی‌ها به جای تجزیه و تحلیل آنچه که در حال حاضر محبوب است، بر پیش‌بینی آنچه در چند سال آینده اتفاق می‌افتد متمرکز است، به همین دلیل است که ویژگی‌ها یا فناوری‌هایی که در حال حاضر گسترده‌تر هستند، همیشه شامل نمی‌شوند.
 
-            به این ترتیب، این نظرسنجی‌ها به جای تجزیه و تحلیل آنچه که در حال حاضر محبوب است، بر پیش‌بینی آنچه در چند سال آینده اتفاق می‌افتد متمرکز است، به همین دلیل است که ویژگی‌ها یا فناوری‌هایی که در حال حاضر گسترده‌تر هستند، همیشه شامل نمی‌شوند.
+      ### طراحی نظرسنجی
 
-            ### طراحی نظرسنجی
+      این نظرسنجی تا حدی بر اساس نظرسنجی سال گذشته طراحی شد، با یک دوره بازخورد آزاد [در گیت هاب](https://github.com/StateOfJS/StateOfCSS-2020/issues/8) که در آن طرح کلی نظرسنجی مورد بحث قرار گرفت.
 
-            این نظرسنجی تا حدی بر اساس نظرسنجی سال گذشته طراحی شد، با یک دوره بازخورد آزاد [در گیت هاب](https://github.com/StateOfJS/StateOfCSS-2020/issues/8) که در آن طرح کلی نظرسنجی مورد بحث قرار گرفت.
+      تمام سوالات نظرسنجی اختیاری بود.
 
-            تمام سوالات نظرسنجی اختیاری بود.
+      ### نظرسنجی از مخاطبان
 
-            ### نظرسنجی از مخاطبان
+      این نظرسنجی به صورت آنلاین در دسترس بود و پاسخ دهندگان به هیچ وجه فیلتر یا انتخاب نشدند. پاسخ دهندگان امسال عمدتاً ترکیبی از پاسخ دهندگان گذشته (که از طریق ایمیل به آنها اعلام شده بود) و رسانه های اجتماعی بودند.
 
-            این نظرسنجی به صورت آنلاین در دسترس بود و پاسخ دهندگان به هیچ وجه فیلتر یا انتخاب نشدند. پاسخ دهندگان امسال عمدتاً ترکیبی از پاسخ دهندگان گذشته (که از طریق ایمیل به آنها اعلام شده بود) و رسانه های اجتماعی بودند.
+      ### نمایندگی و فراگیر بودن
 
-            ### نمایندگی و فراگیر بودن
+      در حالی که ما معتقدیم که آزادی دادن به هر جامعه ای مهم است، واقعیت این است که یک نظرسنجی باز مانند این همیشه برای نشان دادن همه افراد تلاش می کند، به خصوص زمانی که از طریق سیستم هایی کار می کنند که قبلاً دارای تعصبات ذاتی خود بودند.
 
-            در حالی که ما معتقدیم که آزادی دادن به هر جامعه ای مهم است، واقعیت این است که یک نظرسنجی باز مانند این همیشه برای نشان دادن همه افراد تلاش می کند، به خصوص زمانی که از طریق سیستم هایی کار می کنند که قبلاً دارای تعصبات ذاتی خود بودند.
 
+      برای متعادل کردن این امر، ما سه استراتژی مجزا را اجرا می کنیم:
 
-            برای متعادل کردن این امر، ما سه استراتژی مجزا را اجرا می کنیم:
 
+      - **توسعه**: امسال با 23 سازمان به نمایندگی از توسعه دهندگان BIPOC و LGBTQ تماس گرفتیم به امید همکاری. در حالی که تعداد بسیار کمی از آنها پاسخ دادند، ما همچنان به دنبال راه هایی برای رسیدن به بیشتر کردن مخاطبان فعلی خود خواهیم بود.
 
-            - **توسعه**: امسال با 23 سازمان به نمایندگی از توسعه دهندگان BIPOC و LGBTQ تماس گرفتیم به امید همکاری. در حالی که تعداد بسیار کمی از آنها پاسخ دادند، ما همچنان به دنبال راه هایی برای رسیدن به بیشتر کردن مخاطبان فعلی خود خواهیم بود.
+      - **تحلیل داده ها**: از طریق ویژگی هایی مانند جنبه ها و انواع مختلف، ما همیشه سعی می کنیم صدای هر بخش جمعیتی را آسان تر نماییم، صرف نظر از اینکه چقدر ممکن است در داده های ما کوچک باشد.
 
-            - **تحلیل داده ها**: از طریق ویژگی هایی مانند جنبه ها و انواع مختلف، ما همیشه سعی می کنیم صدای هر بخش جمعیتی را آسان تر نماییم، صرف نظر از اینکه چقدر ممکن است در داده های ما کوچک باشد.
+      - **کاهش موانع**: طولانی کردن نظرسنجی، غیرقابل دسترس بودن، لودینگ کند، تک زبانه بودن و ... همگی می توانند به تحمیل "مالیات بر تلاش" کمک کنند که بخش هایی از جامعه را که توانایی پرداخت آن را ندارند قطع می کند. رفع این مشکلات می تواند موانع را کاهش دهد و در این روند مخاطبان ما را متنوع تر کند.
 
-            - **کاهش موانع**: طولانی کردن نظرسنجی، غیرقابل دسترس بودن، لودینگ کند، تک زبانه بودن و ... همگی می توانند به تحمیل "مالیات بر تلاش" کمک کنند که بخش هایی از جامعه را که توانایی پرداخت آن را ندارند قطع می کند. رفع این مشکلات می تواند موانع را کاهش دهد و در این روند مخاطبان ما را متنوع تر کند.
+      ### تامین مالی پروژه
 
-            ### تامین مالی پروژه
+      تامین مالی این پروژه از منابع مختلفی تامین می شود:
 
-            تامین مالی این پروژه از منابع مختلفی تامین می شود:
 
+      - **فروش تیشرت**.
 
-            - **فروش تیشرت**.
+      - **پیوندهای حمایت شده**: پیوندهای توصیه شده در پایین هر صفحه توسط شریک ما [Frontend Masters] (https://frontendmasters.com/) ارائه شده است.
 
-            - **پیوندهای حمایت شده**: پیوندهای توصیه شده در پایین هر صفحه توسط شریک ما [Frontend Masters] (https://frontendmasters.com/) ارائه شده است.
+      - **تامین مالی دیگر**: امسال تیم [Google Chrome](https://www.google.com/chrome/) بودجه کمی را برای کمک به استخدام یک [مشاور دسترسی](https://fossheim.io/) برای کار در نظرسنجی اختصاص داد.
 
-            - **تامین مالی دیگر**: امسال تیم [Google Chrome](https://www.google.com/chrome/) بودجه کمی را برای کمک به استخدام یک [مشاور دسترسی](https://fossheim.io/) برای کار در نظرسنجی اختصاص داد.
 
+      علی‌رغم این منابع مالی، نظرسنجی‌ها به طور کلی عمدتاً پروژه‌ای است که خود تأمین مالی می‌شود و هر گونه کمک یا حمایت مالی بسیار قدردانی می‌شود. من به ویژه مایلم از نزدیک با فروشندگان مرورگر بیشتری کار کنم، زیرا آنها نقش اصلی را در اکوسیستم وب دارند.
 
-            علی‌رغم این منابع مالی، نظرسنجی‌ها به طور کلی عمدتاً پروژه‌ای است که خود تأمین مالی می‌شود و هر گونه کمک یا حمایت مالی بسیار قدردانی می‌شود. من به ویژه مایلم از نزدیک با فروشندگان مرورگر بیشتری کار کنم، زیرا آنها نقش اصلی را در اکوسیستم وب دارند.
+      ### بررسی اجمالی فنی
 
-            ### بررسی اجمالی فنی
+      می‌توانید یک نمای فنی دقیق‌تر از نحوه اجرای نظرسنجی‌ها [اینجا] (https://dev.to/sachagreif/how-the-state-of-js-css-surveys-are-run-4lnb) ببینید.
 
-            می‌توانید یک نمای فنی دقیق‌تر از نحوه اجرای نظرسنجی‌ها [اینجا] (https://dev.to/sachagreif/how-the-state-of-js-css-surveys-are-run-4lnb) ببینید.
+      - **Data collection**: custom [Vulcan.js](http://vulcanjs.org/) app.
 
-            - **Data collection**: custom [Vulcan.js](http://vulcanjs.org/) app.
+      - **Data storage/processing**: MongoDB & MongoDB Aggregations.
 
-            - **Data storage/processing**: MongoDB & MongoDB Aggregations.
+      - **Data API**: Node.js GraphQL API.
 
-            - **Data API**: Node.js GraphQL API.
+      - **Results Site**: [Gatsby](https://www.gatsbyjs.com/) React app.
 
-            - **Results Site**: [Gatsby](https://www.gatsbyjs.com/) React app.
+      - **Data Visualizations**: [Nivo](https://nivo.rocks/) React dataviz library.
 
-            - **Data Visualizations**: [Nivo](https://nivo.rocks/) React dataviz library.
-
-            - **Type**: [IBM Plex Mono](https://fonts.google.com/specimen/IBM+Plex+Mono) and [Bebas Neue](https://fonts.google.com/specimen/Bebas+Neue).
+      - **Type**: [IBM Plex Mono](https://fonts.google.com/specimen/IBM+Plex+Mono) and [Bebas Neue](https://fonts.google.com/specimen/Bebas+Neue).

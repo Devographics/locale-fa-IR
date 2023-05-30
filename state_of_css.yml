@@ -206,37 +206,37 @@ translations:
     t: طرز رفتار با اسکرول، نرم کردن انیمیشن ها و غیره.
 
   # CSS missing features (same as features section)
-  - key: options.currently_missing_from_css.nesting
+  - key: options.css_missing_features.nesting
     t: تودرتو
-  - key: options.currently_missing_from_css.nesting.description
+  - key: options.css_missing_features.nesting.description
     t: امکان تودرتو کردن استایل ها در CSS.
-  - key: options.currently_missing_from_css.parent_selector
+  - key: options.css_missing_features.parent_selector
     t: انتخابگر والد
-  - key: options.currently_missing_from_css.parent_selector.description
+  - key: options.css_missing_features.parent_selector.description
     t: توانایی هدف قرار دادن یک عنصر والد بر اساس فرزندان آن.
-  - key: options.currently_missing_from_css.browser_support
+  - key: options.css_missing_features.browser_support
     t: پشتیبانی مرورگر
-  - key: options.currently_missing_from_css.browser_support.description
+  - key: options.css_missing_features.browser_support.description
     t: پشتیبانی بهتر مرورگر از ویژگی های موجود.
-  - key: options.currently_missing_from_css.mixins
+  - key: options.css_missing_features.mixins
     t: Mixins
-  - key: options.currently_missing_from_css.mixins.description
+  - key: options.css_missing_features.mixins.description
     t: گروه بندی و استفاده مجدد از متغیر ها.
-  - key: options.currently_missing_from_css.color_functions
+  - key: options.css_missing_features.color_functions
     t: توابع رنگ
-  - key: options.currently_missing_from_css.color_functions.description
+  - key: options.css_missing_features.color_functions.description
     t: توابع برای دستکاری مقادیر رنگ.
-  - key: options.currently_missing_from_css.container_queries
+  - key: options.css_missing_features.container_queries
     t: کوئری های کانتینر
-  - key: options.currently_missing_from_css.container_queries.description
+  - key: options.css_missing_features.container_queries.description
     t: توانایی نوشتن استایل ها بر اساس والد.
-  - key: options.currently_missing_from_css.scoping
+  - key: options.css_missing_features.scoping
     t: محدوده
-  - key: options.currently_missing_from_css.scoping.description
+  - key: options.css_missing_features.scoping.description
     t: توانایی دقیق تر بودن در مورد محل استفاده از استایل های شما.
-  - key: options.currently_missing_from_css.subgrid
+  - key: options.css_missing_features.subgrid
     t: Subgrid
-  - key: options.currently_missing_from_css.subgrid.description
+  - key: options.css_missing_features.subgrid.description
     t: Nesting deeper-level subgrids into a parent grid.
 
   ###########################################################################
@@ -260,7 +260,7 @@ translations:
   - key: features.exclusions
     t: CSS Exclusions
   - key: features.position_sticky
-    t: '<code>position: sticky</code>'
+    t: "<code>position: sticky</code>"
   - key: features.logical_properties
     t: Logical Properties
   - key: features.logical_properties.description
@@ -465,7 +465,7 @@ translations:
   - key: options.units.pt
     t: pt
   - key: options.units.percent
-    t: '%'
+    t: "%"
   - key: options.units.em
     t: em
   - key: options.units.rem
@@ -491,21 +491,21 @@ translations:
     t: از کدام یک از این شبه عناصر CSS استفاده کرده اید؟
 
   - key: options.pseudo_elements.before
-    t: '::before'
+    t: "::before"
   - key: options.pseudo_elements.after
-    t: '::after'
+    t: "::after"
   - key: options.pseudo_elements.first_line
-    t: '::first-line'
+    t: "::first-line"
   - key: options.pseudo_elements.first_letter
-    t: '::first-letter'
+    t: "::first-letter"
   - key: options.pseudo_elements.selection
-    t: '::selection'
+    t: "::selection"
   - key: options.pseudo_elements.placeholder
-    t: '::placeholder'
+    t: "::placeholder"
   - key: options.pseudo_elements.marker
-    t: '::marker'
+    t: "::marker"
   - key: options.pseudo_elements.backdrop
-    t: '::backdrop'
+    t: "::backdrop"
 
   - key: features_others.combinators
     t: ترکیب کننده ها
@@ -737,13 +737,13 @@ translations:
     t: Other CSS Pain Points
 
   # Missing Features
-  - key: opinions.currently_missing_from_css
+  - key: opinions.css_missing_features
     t: به نظر شما در حال حاضر css چه ویژگی را کم دارد؟
-  - key: opinions.currently_missing_from_css.description
+  - key: opinions.css_missing_features.description
     t: ویژگی را انتخاب کنید که دوست دارید امروز از آن در css استفاده کنید.
-  - key: opinions_others.currently_missing_from_css.others
+  - key: opinions_others.css_missing_features.others
     t: سایر کمبود ویژگی ها
-  - key: opinions_others.currently_missing_from_css.others.note
+  - key: opinions_others.css_missing_features.others.note
     t: >
       این نتایج بر اساس محتویات یک فیلد آزاد نرمال شده است.
        برای مشاهده پاسخ‌های خام و پردازش نشده، بررسی کنید [whatsmissingfromcss.com](http://whatsmissingfromcss.com/).
@@ -777,14 +777,14 @@ translations:
   - key: css_pain_points.css_pain_points_matchups.description
     t: با کدام جنبه از سی اس اس بیشتر مشکل دارید؟ درصد راندهای برد توسط آیتم سمت چپ در برابر آیتم سمت بالا.
 
-  - key: currently_missing_from_css.currently_missing_from_css_wins
+  - key: css_missing_features.css_missing_features_wins
     t: ویژگی هایی که در CSS وجود ندارند
-  - key: currently_missing_from_css.currently_missing_from_css_wins.description
+  - key: css_missing_features.css_missing_features_wins.description
     t: در حال حاضر بیشتر دوست دارید که بتوانید از کدام ویژگی در CSS استفاده کنید؟ نتایج بر اساس تعداد دورهای مسابقات رتبه بندی می شوند.
 
-  - key: currently_missing_from_css.currently_missing_from_css_matchups
+  - key: css_missing_features.css_missing_features_matchups
     t: ویژگی هایی که در CSS وجود ندارند
-  - key: currently_missing_from_css.currently_missing_from_css_matchups.description
+  - key: css_missing_features.css_missing_features_matchups.description
     t: در حال حاضر بیشتر دوست دارید که بتوانید از کدام ویژگی در CSS استفاده کنید؟ درصد راندهای برد توسط آیتم سمت چپ در برابر آیتم سمت بالا.
 
   ###########################################################################
