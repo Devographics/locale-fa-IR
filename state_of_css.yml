@@ -446,10 +446,6 @@ translations:
     t: محدوده
   - key: features.scoping.description
     t: توانایی دقیق تر بودن در مورد محل استفاده از استایل های شما.
-  - key: features.subgrid
-    t: Subgrid
-  - key: features.subgrid.description
-    t: Nesting deeper-level subgrids into a parent grid.
 
   ###########################################################################
   # Units & Selectors
