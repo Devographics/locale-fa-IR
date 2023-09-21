@@ -265,26 +265,26 @@ translations:
     t: |
       جو روی Next.js در Vercel کار می کند و دائماً به دنبال نشان دادن قدرت خود با افتخار است در حالی که فعالانه به بازخوردهای جامعه گوش می دهد تا از آنها حمایت بهتری کند.
 
-  - key: picks.xxxx.name
-    t:
-  - key: picks.xxxx.bio
-    t:
-  - key: picks.xxxx.description
-    t: |
+  # - key: picks.xxxx.name
+  #   t:
+  # - key: picks.xxxx.bio
+  #   t:
+  # - key: picks.xxxx.description
+  #   t: |
 
-  - key: picks.xxxx.name
-    t:
-  - key: picks.xxxx.bio
-    t:
-  - key: picks.xxxx.description
-    t: |
+  # - key: picks.xxxx.name
+  #   t:
+  # - key: picks.xxxx.bio
+  #   t:
+  # - key: picks.xxxx.description
+  #   t: |
 
-  - key: picks.xxxx.name
-    t:
-  - key: picks.xxxx.bio
-    t:
-  - key: picks.xxxx.description
-    t: |
+  # - key: picks.xxxx.name
+  #   t:
+  # - key: picks.xxxx.bio
+  #   t:
+  # - key: picks.xxxx.description
+  #   t: |
   ###########################################################################
   # Sponsors
   ###########################################################################

@@ -412,8 +412,6 @@ translations:
     t: <code>@property</code>
   - key: features.at_layer
     t: <code>@layer</code>
-  - key: features.content_visibility
-    t: <code>content-visibility</code>
   - key: features.marker
     t: <code>::marker</code> pseudo-element
 
@@ -651,7 +649,7 @@ translations:
     t: کدام ویژگی های دسترسی را معمولاً اجرا می کنید؟
   - key: environments.accessibility_features.others
     t: سایر ویژگی های قابل دسترس
-  - key: environments.accessibility_features.others
+  - key: environments.accessibility_features.others.description
     t: سایر ویژگی‌های دسترسی که معمولاً پیاده‌سازی می‌کنید
 
   - key: environments.css_for_print
