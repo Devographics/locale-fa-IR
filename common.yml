@@ -1040,7 +1040,7 @@ translations:
   # learning method
   - key: resources.first_steps
     t: اولین روش یادگیری
-  - key: resources.first_steps.description
+  - key: resources.first_steps.question
     t: وقتی تازه شروع کردید, برنامه‌نویسی را چگونه یاد گرفتید؟?
   - key: resources.first_steps.others
     t: روش‌های شروع دیگر
@@ -1050,7 +1050,7 @@ translations:
   # blogs & magazines
   - key: resources.blogs_news_magazines
     t: بلاگ‌ها و مجلات
-  - key: resources.blogs_news_magazines.description
+  - key: resources.blogs_news_magazines.question
     t: کدام یک از بلاگ‌ها، مجلات و... را مطالعه می‌کنید؟
   - key: resources.blogs_news_magazines.others
     t: بلاگ‌ها و مجلات دیگر
@@ -1060,7 +1060,7 @@ translations:
   # sites & courses
   - key: resources.sites_courses
     t: سایت‌ها و دوره‌ها
-  - key: resources.sites_courses.description
+  - key: resources.sites_courses.question
     t: کدام یک از سایت‌ها/دوره‌ها/و... استفاده می‌کنید؟
   - key: resources.sites_courses.others
     t: سایت‌ها و دوره‌های دیگر
@@ -1070,7 +1070,7 @@ translations:
   # podcasts
   - key: resources.podcasts
     t: پادکست‌ها
-  - key: resources.podcasts.description
+  - key: resources.podcasts.question
     t: به کدام یک از پادکست‌های مرتبط به برنامه‌نویسی گوش می‌دهید؟
   - key: resources.podcasts.others
     t: پادکست‌های دیگر
