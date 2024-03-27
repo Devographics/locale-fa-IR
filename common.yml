@@ -851,55 +851,55 @@ translations:
   # age
   - key: user_info.age
     t: سن
-  - key: user_info.age.description
+  - key: user_info.age.question
     t: سن شما چقدر است؟
 
   # years of experience
   - key: user_info.years_of_experience
     t: سال‌های تجربه شما
-  - key: user_info.years_of_experience.description
+  - key: user_info.years_of_experience.question
     t: چند سال است که در این حوزه مشغول کار یا تحصیل هستید؟
 
   # company size
   - key: user_info.company_size
     t: اندازه شرکت
-  - key: user_info.company_size.description
+  - key: user_info.company_size.question
     t: شرکت شما از نظر تعداد کارمندان چقدر بزرگ است؟
 
   # salary ranges
   - key: user_info.yearly_salary
     t: حقوق سالیانه
-  - key: user_info.yearly_salary.description
+  - key: user_info.yearly_salary.question
     t: درآمد سالیانه شما به دلار آمریکا.
 
   # job title
   - key: user_info.job_title
     t: عنوان شغلی
-  - key: user_info.job_title.description
+  - key: user_info.job_title.question
     t: چگونه خود را به دیگران معرفی می کنید؟
 
   # javascript proficiency
   - key: user_info.javascript_proficiency
     t: مهارت جاوااسکریپت
-  - key: user_info.javascript_proficiency.description
+  - key: user_info.javascript_proficiency.question
     t: چقدر در جاوا اسکریپت مهارت دارید؟
 
   # css proficiency
   - key: user_info.css_proficiency
     t: مهارت CSS
-  - key: user_info.css_proficiency.description
+  - key: user_info.css_proficiency.question
     t: چقدر در CSS مهارت دارید؟
 
   # backend proficiency
   - key: user_info.backend_proficiency
     t: مهارت بک‌اند
-  - key: user_info.backend_proficiency.description
+  - key: user_info.backend_proficiency.question
     t: چقدر در توسعه back-end مهارت دارید؟
 
   # gender
   - key: user_info.gender
     t: جنسیت
-  - key: user_info.gender.description
+  - key: user_info.gender.question
     t: >
       در صورت وجود، کدام یک از گزینه‌های زیر شما را توصیف می‌کند؟ لطفا یکی را انتخاب کنید
   - key: user_info.gender.note
@@ -910,7 +910,7 @@ translations:
   # race & ethnicity
   - key: user_info.race_ethnicity
     t: نژاد و قومیت
-  - key: user_info.race_ethnicity.description
+  - key: user_info.race_ethnicity.question
     t: >
       در صورت وجود، کدام یک از گزینه‌های زیر شما را توصیف می‌کند؟ لطفا همه گزینه‌های درست را انتخاب کنید.
   - key: user_info.race_ethnicity.note
@@ -921,7 +921,7 @@ translations:
   # disability status
   - key: user_info.disability_status
     t: وضعیت معلولیت
-  - key: user_info.disability_status.description
+  - key: user_info.disability_status.question
     t: >
       در صورت وجود، کدام یک از گزینه‌های زیر شما را توصیف می‌کند؟ لطفا همه گزینه‌های درست را انتخاب کنید.
       توجه داشته باشید که این می‌تواند شامل معلولیت یا آسیب‌های موقت نیز باشد.
@@ -953,7 +953,7 @@ translations:
       (مانند لیست افرادی که دنبال کرده‌اید)
   - key: user_info.industry_sector
     t: صنعت
-  - key: user_info.industry_sector.description
+  - key: user_info.industry_sector.question
     t: در کدوم بخش از صنعت/صنایع کار می‌کنید؟
   - key: user_info.industry_sector.others
     t: بخش‌های دیگر
@@ -963,7 +963,7 @@ translations:
   # degree
   - key: user_info.higher_education_degree
     t: مدرک تحصیلی دانشگاهی
-  - key: user_info.higher_education_degree.description
+  - key: user_info.higher_education_degree.question
     t: آیا دارای مدرک تحصیلی دانشگاهی هستید؟
 
   ###########################################################################
