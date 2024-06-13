@@ -972,7 +972,7 @@ translations:
 
   - key: tools_others.libraries
     t: کتابخانه‌ها
-  - key: tools_others.libraries.description
+  - key: tools_others.libraries.question
     t: عمدتا چه کتابخانه‌هایی استفاده می‌کنید؟
   - key: tools_others.libraries.others
     t: دیگر کتابخانه‌ها
@@ -981,7 +981,7 @@ translations:
 
   - key: tools_others.text_editors
     t: ویرایشگر متن
-  - key: tools_others.text_editors.description
+  - key: tools_others.text_editors.question
     t: عمدتا از چه ویرایشگر(های) متنی استفاده می‌کنید؟
   - key: tools_others.text_editors.others
     t: ویرایشگرهای دیگر
@@ -990,7 +990,7 @@ translations:
 
   - key: tools_others.utilities
     t: ابزارهای کمکی
-  - key: tools_others.utilities.description
+  - key: tools_others.utilities.question
     t: عمدتا از چه ابزراهای کمکی استفاده می‌کنید؟
   - key: tools_others.utilities.others
     t: دیگر ابزارهای کمکی
@@ -999,7 +999,7 @@ translations:
 
   - key: tools_others.browsers
     t: مرورگرها
-  - key: tools_others.browsers.description
+  - key: tools_others.browsers.question
     t: در زمان توسعه، عمدتاً از کدام مرورگر(های) استفاده می‌کنید
   - key: tools_others.browsers.others
     t: دیگر مرورگرها
@@ -1008,7 +1008,7 @@ translations:
 
   - key: tools_others.build_tools
     t: ابزارهای ساخت
-  - key: tools_others.build_tools.description
+  - key: tools_others.build_tools.question
     t: از کدام ابزار ساخت استفاده می کنید؟
   - key: tools_others.build_tools.others
     t: دیگر ابزارهای ساخت
@@ -1017,7 +1017,7 @@ translations:
 
   - key: tools_others.non_js_languages
     t: زبان‌های برنامه‌نویسی غیر از جاوااسکریپت
-  - key: tools_others.non_js_languages.description
+  - key: tools_others.non_js_languages.question
     t: از کدام زبان های برنامه‌نویسی دیگر استفاده می کنید؟
   - key: tools_others.non_js_languages.others
     t: زبان‌های دیگر
@@ -1026,7 +1026,7 @@ translations:
 
   - key: tools_others.javascript_flavors
     t: زبان‌های هم‌خانواده جاوااسکریپت
-  - key: tools_others.javascript_flavors.description
+  - key: tools_others.javascript_flavors.question
     t: زبان‌هایی که به جاوااسکریپت کامپایل می‌شوند
   - key: tools_others.javascript_flavors.others
     t: زبان‌های دیگر
