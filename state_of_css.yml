@@ -640,12 +640,12 @@ translations:
 
   - key: environments.form_factors
     t: محیط های تست
-  - key: environments.form_factors.description
+  - key: environments.form_factors.question
     t: روی کدام عوامل یا محیط‌ها تست می‌کنید؟
 
   - key: environments.accessibility_features
     t: ویژگی های قابل دسترس
-  - key: environments.accessibility_features.description
+  - key: environments.accessibility_features.question
     t: کدام ویژگی های دسترسی را معمولاً اجرا می کنید؟
   - key: environments.accessibility_features.others
     t: سایر ویژگی های قابل دسترس
@@ -654,17 +654,17 @@ translations:
 
   - key: environments.css_for_print
     t: CSS برای چاپ
-  - key: environments.css_for_print.description
+  - key: environments.css_for_print.question
     t: آیا شما استایل های چاپ می نویسید؟
 
   - key: environments.css_for_email
     t: css برای ایمیل کاربران.
-  - key: environments.css_for_email.description
+  - key: environments.css_for_email.question
     t: آیا برای ایمیل کاربران css می‌نویسید.
 
   - key: environments.what_do_you_use_css_for
     t: شما عمدتاً برای چه کاری از CSS استفاده می کنید؟
-  - key: environments.what_do_you_use_css_for.description
+  - key: environments.what_do_you_use_css_for.question
     t: معمولاً برای چه نوع پروژه ای از CSS استفاده می کنید؟
   - key: environments.what_do_you_use_css_for.others
     t: انواع دیگر پروژه ها

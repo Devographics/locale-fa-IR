@@ -320,7 +320,7 @@ translations:
   - key: tools_others.form_factors
     aliasFor: environments.form_factors
   - key: tools_others.form_factors.description
-    aliasFor: environments.form_factors.description
+    aliasFor: environments.form_factors.question
 
   ###########################################################################
   # Opinions
